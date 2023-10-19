@@ -1,0 +1,702 @@
+/*
+    IMPORTANT: Use only for webpack build conversion issues.
+*/
+
+/*
+    Keyframes:
+      - Avoid webpack build conversion "from" -> "0%".
+      - Percentage missing when the value is 0 issue fixed.
+
+    Colors with opacity(alpha):
+      - Avoid webpack build conversion form rgba and hex to hsla
+*/
+
+@keyframes tabs-reduce-width-animation {
+  from {
+    width: 100%;
+  }
+  33% {
+    width: 100%;
+  }
+  66% {
+    width: 0;
+  }
+  to {
+    width: 0;
+  }
+}
+
+@keyframes zoomin {
+  from {
+    transform: translate(-50%, -50%) scaleX(0) scaleY(0);
+  }
+  to {
+    transform: translate(-50%, -50%) scaleX(1) scaleY(1);
+  }
+}
+
+@keyframes progress-bar-fill {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes slide-from-bottom-anim {
+  from {
+    transform: translate3d(0, 100%, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/**
+  HomePage Hero Animations Start
+ */
+@keyframes slide-from-bottom-homepage-hero-anim {
+  from {
+    animation-timing-function: cubic-bezier(0.17, 0, 0.3, 1);
+    transform: translate3d(0, 100%, 0);
+  }
+  to {
+    animation-timing-function: cubic-bezier(0.4, 0.11, 0.83, 1);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fade-color-anim {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0.9;
+  }
+  50% {
+    opacity: 0.8;
+  }
+  90% {
+    opacity: 0.2;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes background-grow-anim {
+  0% {
+    transform: scale(1) translate3d(0, 0, 0);
+  }
+  50% {
+    transform: scale(1.1) translate3d(0, 0, 0);
+  }
+  100% {
+    transform: scale(1.12) translate3d(0, 0, 0);
+  }
+}
+
+@keyframes background-grow-homepage-hero-mobile-anim {
+  0% {
+    transform: scale(1) translate3d(0, 0, 0);
+  }
+  50% {
+    transform: scale(1.1) translate3d(0, 0, 0);
+  }
+  100% {
+    transform: scale(1.12) translate3d(0, 0, 0);
+  }
+}
+
+@keyframes background-grow-homepage-hero-anim {
+  0% {
+    transform: scale(1) translate3d(0, 0, 0);
+  }
+  50% {
+    transform: scale(1.1) translate3d(0, 0, 0);
+  }
+  100% {
+    transform: scale(1.12) translate3d(0, 0, 0);
+  }
+}
+
+@keyframes slide-bg-from-bottom-anim {
+  from {
+    animation-timing-function: cubic-bezier(0.4, 0.11, 0.83, 1);
+    background-position: center 4rem;
+    transform: scale(1.2);
+  }
+  to {
+    animation-timing-function: cubic-bezier(0.17, 0, 0.3, 1);
+    background-position: center -4rem;
+    transform: scale(1.2);
+  }
+}
+
+@keyframes eyebrow-mobile-grow-anim {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100vw;
+  }
+}
+
+@keyframes eyebrow-grow-anim {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes width-grow-anim {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+@keyframes hide-active-indicator-anim {
+  0% {
+    transform: translateX(0);
+    width: 100%;
+  }
+  100% {
+    transform: translateX(101%);
+    width: 100%;
+  }
+}
+
+// Keyframe animations
+@keyframes eyebrow-shrink-anim {
+  0% {
+    transform: translate3d(0, -50%, 0);
+  }
+  100% {
+    transform: translate3d(-100%, -50%, 0);
+  }
+}
+
+@keyframes eyebrow-hide-anim {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes text-reveal-anim {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes text-reveal-anim-w-fade {
+  0% {
+    transform: translateY(2rem);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(1rem);
+    opacity: 0.3;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in-anim {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out-anim {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes slide-1 {
+  0% {
+    animation-timing-function: cubic-bezier(0.17, 0, 0.3, 1);
+    clip-path: polygon(-100vh 0, -100vh 100vh, calc(100vh - 100vh) 0);
+  }
+  100% {
+    animation-timing-function: cubic-bezier(0.4, 0.11, 0.83, 1);
+    clip-path: polygon(0vh 0, 0vh 300vh, 300vh 0);
+  }
+}
+
+@keyframes slide-2 {
+  from {
+    animation-timing-function: cubic-bezier(0.17, 0, 0.3, 1);
+    clip-path: polygon(-150vh 0, -150vh 100%, calc(100vh - 150vh) 100%);
+  }
+  to {
+    animation-timing-function: cubic-bezier(0.4, 0.11, 0.83, 1);
+    clip-path: polygon(0px -200vh, 0 100%, 300vh 100%);
+  }
+}
+
+/**
+  HomePage Hero Animations End
+ */
+
+/**
+  Sector Landing Hero Animation
+ */
+
+@keyframes vertical-text-rotate-anim {
+  0% {
+    opacity: 0;
+    transform: rotateX(90deg);
+  }
+  100% {
+    opacity: 1;
+    transform: rotateX(0deg);
+  }
+}
+
+/**
+  This was moved to this file to avoid webpack changing rgba and 0%
+ */
+.tab-white-fade,
+.pcl-tabbing-containers-cmp__white-fade,
+.pcl-project-showcase-tabs__white-fade {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(255, 255, 255, 0.5) 15%,
+    rgba(255, 255, 255, 1) 70%
+  );
+}
+
+.tab-green-fade {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 80, 47, 0.2) 0%,
+    rgba(0, 80, 47, 0.5) 15%,
+    rgba(0, 80, 47, 1) 70%
+  );
+}
+
+.tab-light-gray-fade {
+  background: linear-gradient(
+    90deg,
+    rgba(249, 249, 249, 0.2) 0%,
+    rgba(249, 249, 249, 0.5) 15%,
+    rgba(249, 249, 249, 1) 70%
+  );
+}
+
+.pcl-sticky-two-column--mobile-left.mobile-collapsed::before {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fff 100%);
+}
+
+/**
+  For the jumpbar component
+ */
+@keyframes pcl-jump-bar-in {
+  from {
+    transform: translateY(100%);
+    max-height: 0;
+  }
+  to {
+    transform: translateY(0);
+    max-height: 100%;
+  }
+}
+
+@keyframes slideFromRight {
+  from {
+    transform: translateX(50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/**
+  Spotlight animations start
+ */
+
+@keyframes spotlight-big-image {
+  0% {
+    max-height: 0;
+    transform: perspective(31.25rem) translate3d(0, 0, 0.9rem);
+    opacity: 0;
+  }
+  60% {
+    max-height: 100%;
+    transform: perspective(31.25rem) translate3d(0, 0, 0.8rem);
+    opacity: 1;
+  }
+  100% {
+    max-height: 100%;
+    transform: perspective(31.25rem) translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-text-cero {
+  0% {
+    transform: translateY(2rem);
+    opacity: 0;
+  }
+  80% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-text-one {
+  0% {
+    transform: translateY(2rem);
+    opacity: 0;
+  }
+  30% {
+    transform: translateY(2rem);
+    opacity: 0;
+  }
+  90% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-left-out {
+  0% {
+    transform: translateX(-100%);
+    opacity: 1;
+  }
+  30% {
+    opacity: 0;
+  }
+  60% {
+    transform: translateX(-120%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(-120%);
+    opacity: 0;
+  }
+}
+
+@keyframes spotlight-img-right-out {
+  0% {
+    transform: translateX(-100%);
+    opacity: 1;
+  }
+  30% {
+    opacity: 0;
+  }
+  60% {
+    transform: translateX(-80%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(-80%);
+    opacity: 0;
+  }
+}
+
+@keyframes spotlight-img-cero-left-in {
+  0% {
+    transform: translateX(-180%);
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-200%);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-one-left-in {
+  0% {
+    transform: translateX(-180%);
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-200%);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-two-left-in {
+  0% {
+    transform: translateX(-180%);
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-200%);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-cero-main-in {
+  0% {
+    transform: translateX(-80%);
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-100%);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-one-main-in {
+  0% {
+    transform: translateX(-80%);
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-100%);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-two-main-in {
+  0% {
+    transform: translateX(-80%);
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(-100%);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-cero-right-in {
+  0% {
+    transform: translateX(-20%);
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-one-right-in {
+  0% {
+    transform: translateX(-20%);
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes spotlight-img-two-right-in {
+  0% {
+    transform: translateX(-20%);
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+/**
+  Spotlight animations end
+ */
+
+/**
+  For Secondary nav
+ */
+@keyframes pcl-secondary-nav-in {
+  from {
+    transform: translateY(100%);
+    max-height: 0;
+  }
+  to {
+    transform: translateY(0);
+    max-height: 100%;
+  }
+}
+/**
+  Scroll Jack animations
+ */
+@keyframes scroll-jack-img-up {
+  0% {
+    max-height: 0;
+    opacity: 0;
+  }
+  100% {
+    max-height: 100%;
+    opacity: 1;
+  }
+}
+
+@keyframes scroll-jack-text-up {
+  0% {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/**
+  Scroll Jack animations end
+ */
+
+@keyframes fade-in-slide-r {
+  from {
+    opacity: 0;
+    transform: translateX(-80px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fade-in-slide-l {
+  from {
+    opacity: 0;
+    transform: translateX(80px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes curtain-up {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+
+@keyframes project-hero-img-in {
+  0% {
+    transform: translateY(20%);
+    height: 80%;
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(0);
+    height: 100%;
+    opacity: 1;
+  }
+}
+
+.gradient-transparent-to-darkgray {
+  background: linear-gradient(to right, rgba(59, 59, 59, 0), #36383d);
+}
+
+// Case-Study Stabs problems with 0
+
+.pcl-case-study-tabs {
+  &--content-animation .pcl-title--eyebrow {
+    //webpack transforms this from 0deg to 0
+    transform: rotateX(0deg);
+    &:before {
+      width: 3rem;
+    }
+  }
+}

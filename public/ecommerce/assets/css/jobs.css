@@ -1,0 +1,590 @@
+
+.btn {
+    text-transform: uppercase;
+}
+.list-group-item {
+    border: none;
+}
+html[data-useragent*="MSIE 10.0"] #resumator-apply-with-indeed-wrapper,
+html[data-useragent*="MSIE 10.0"] #resumator-apply-with-linkedin2-wrapper {
+    display: none !important;
+}
+.skip-link {
+    background: #fff;
+    border-radius: 3px;
+    box-sizing: border-box;
+    left: 50%;
+    padding: 0.5em;
+    position: absolute;
+    top: -3em;
+    transform: translateX(-50%);
+    transition: all ease-in-out 0.3s;
+}
+.skip-link:focus {
+    top: 1em;
+    z-index: 11;
+}
+#ie11-warning,
+.none {
+    display: none;
+}
+.mobile {
+    display: none;
+}
+.container {
+    position: relative;
+}
+.jobboard {
+    padding-top: 0;
+}
+.jobboard .logo > img {
+    height: 23px;
+}
+.jobboard .form-group {
+    margin-bottom: 20px;
+    position: relative;
+}
+.jobboard .form-group.has-error label {
+    font-weight: 600;
+}
+.jobboard .form-group.has-error .form-control {
+    border-width: 2px;
+}
+.jobboard .form-group.has-error .resumator-error {
+    display: block;
+}
+.jobboard .form-group label {
+    font-weight: 400;
+    margin: 0 0 8px;
+}
+.jobboard .form-group .form-control {
+    -webkit-box-shadow: inset 0 2px 0 #e5e5e5;
+    box-shadow: inset 0 2px 0 #e5e5e5;
+    font-size: 15px;
+    height: auto;
+    line-height: normal;
+    padding: 10px 10px 9px;
+}
+.jobboard .form-group .form-control:focus {
+    border-color: #2c9ab7;
+}
+.jobboard .form-group .resumator-error {
+    display: none;
+    font-size: 12px;
+    margin-top: -4px;
+}
+.jobboard .form-group .row {
+    margin: 10px -5px 0;
+}
+.jobboard .form-group .row .col {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.jobboard .form-group .resumator-file-field {
+    display: block;
+}
+.jobboard #messages_wrapper {
+    background-color: #c3c8cd;
+    color: #fff;
+    font-weight: 600;
+    margin: 0;
+}
+.jobboard #messages_wrapper .dv_error,
+.jobboard #messages_wrapper .dv_message {
+    padding: 13px 0 14px;
+}
+.jobboard #messages_wrapper p {
+    margin: 0;
+}
+.jobboard #messages_wrapper .dv_error,
+.jobboard #messages_wrapper .msg_error {
+    background-color: #bf2c4b;
+    color: #fff;
+}
+.jobboard #messages_wrapper .msg_confirm {
+    background-color: #28b691;
+}
+.jobboard #messages_wrapper .msg_caution {
+    background-color: #febe14;
+    color: #000;
+}
+.jobboard #messages_wrapper a.btn_collapse,
+.jobboard #messages_wrapper a.btn_collapse_msg {
+    display: none;
+}
+.jobboard .dv_error {
+    color: #bf2c4b;
+    font-weight: 600;
+}
+.jobboard .welcome-message :first-child {
+    margin-top: 0;
+}
+.jobboard .modal-custom {
+    overflow: auto;
+}
+.jobboard .modal-custom .modal-dialog {
+    bottom: auto;
+    left: 50%;
+    margin: -296px 0 0 -210px;
+    position: absolute;
+    top: 50%;
+    width: 420px;
+}
+@media (max-height: 664px) {
+    .jobboard .modal-custom.modal-no-footer .modal-body {
+        bottom: 0;
+    }
+    .jobboard .modal-custom .modal-dialog {
+        bottom: 36px;
+        margin-top: 0;
+        top: 36px;
+    }
+    .jobboard .modal-custom .modal-content {
+        height: 100%;
+        min-height: 0;
+    }
+    .jobboard .modal-custom .modal-body {
+        bottom: 61px;
+        min-height: 0 !important;
+        overflow: auto;
+        padding-bottom: 20px;
+        position: absolute;
+        top: 45px;
+        width: 100%;
+    }
+    .jobboard .modal-custom .modal-highlight {
+        margin-bottom: -20px;
+    }
+    .jobboard .modal-custom .modal-footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+}
+.jobboard .modal-custom .modal-header {
+    background-color: #2c9ab7;
+}
+.jobboard .modal-custom .modal-body {
+    font-size: 14px;
+    margin-bottom: 12px;
+    padding-bottom: 0;
+}
+.jobboard .modal-custom .modal-body .form-group {
+    margin-bottom: 15px;
+}
+.jobboard .modal-custom .modal-footer {
+    background: #f1f3f3;
+}
+.jobs-navbar {
+    background-color: #2c9ab7;
+    height: 32px;
+}
+.jobs-navbar .btn-link {
+    color: #fff;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 32px;
+    margin: -1px -4px 0;
+    padding: 0;
+}
+.jobs-navbar .btn-link .fa {
+    padding: 0 4px;
+}
+.page-header {
+    background-color: #fff;
+    border: 0;
+    margin: 0;
+    padding: 25px 0;
+}
+.page-header .fa-chevron-down {
+    display: none;
+}
+.page-header .brand-logo,
+.page-header .brand-text,
+.page-header .fa-chevron-down {
+    height: 60px;
+    line-height: 60px;
+}
+.page-header .brand-logo .spacing {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.page-header .brand-logo img {
+    max-height: 60px;
+    vertical-align: middle;
+}
+.page-header .brand-text {
+    font-size: 28px;
+    margin: 0 !important;
+}
+.page-header .brand-text,
+.page-header .brand-text a {
+    color: #2c9ab7;
+}
+.page-header .brand-text a {
+    text-decoration: none;
+}
+.job-board-list-wrapper {
+    background: #f1f3f3;
+}
+.job-board-list {
+    padding: 40px 0;
+    position: relative;
+}
+.job-board-list > .col {
+    float: right;
+}
+.job-board-list .jobs-list .page-title {
+    font-size: 20px;
+    margin: 0 0 30px;
+}
+.job-board-list .jobs-list .page-title-next {
+    margin: 40px 0 0;
+}
+.job-board-list .jobs-list .list-group-item {
+    padding: 0 0 40px;
+}
+.job-board-list .jobs-list .list-group-item:last-child {
+    padding-bottom: 0;
+}
+.job-board-list .jobs-list .list-group-item .list-group-item-heading {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+.job-board-list .jobs-list .list-group-item .list-group-item-heading a {
+    color: #2c9ab7;
+}
+.job-board-list .jobs-list .list-group-item .job-list-company-name {
+    color: #838383;
+    font-size: 14px;
+}
+.job-board-list .jobs-list .list-group-item .list-group-item-text {
+    color: #87919b;
+}
+.job-board-list .jobs-list .list-group-item .list-group-item-text li {
+    padding-right: 10px;
+}
+.job-board-list .jobs-list .list-group-item .list-group-item-text li .fa {
+    padding-right: 5px;
+}
+.job-board-list .jobs-list .list-group-next {
+    margin: 30px 0 0;
+}
+.resumator-jobboard-page .welcome-message {
+    background: #fff;
+    margin-bottom: 0 !important;
+    padding-bottom: 30px;
+}
+.disclaimer {
+    color: #617383;
+    text-decoration: underline;
+}
+.job-header {
+    background: #f1f3f3;
+    padding: 30px 0;
+}
+.job-header h1 {
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0 130px 11px 0;
+}
+.job-header .job-attributes {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.job-header .job-attributes li {
+    margin-right: 10px;
+}
+.job-header .job-attributes .fa {
+    padding-right: 6px;
+}
+.job-header .social-tools {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.job-header .social-tools li {
+    padding: 0 0 0 1px;
+}
+.job-header .social-tools a {
+    background: #2c9ab7;
+    color: #fff;
+    display: block;
+    font-size: 13px;
+    line-height: 10px;
+    padding: 13px 17px 13px 15px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.job-header .social-tools a .fa-share-alt {
+    margin-right: 5px;
+}
+.job-header .social-tools a.fa-facebook {
+    background: #2d609b;
+}
+.job-header .social-tools a.fa-linkedin {
+    background: #007ab8;
+}
+.job-header .social-tools a.fa-twitter {
+    background: #0ec3f3;
+}
+.page-body {
+    background: #fff;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 10px 0 30px;
+}
+.job-details {
+    padding: 40px 0;
+}
+.job-details .job-description {
+    font-size: 16px;
+    line-height: 30px;
+    position: relative;
+}
+.job-details .job-description p {
+    margin: 0 0 1em;
+}
+.job-details .job-description a {
+    color: #2c9ab7;
+}
+.job-details .job-description #read-more-description {
+    background: #f1f3f3;
+    border: 1px solid #c3c8cd;
+    bottom: 0;
+    display: none;
+    left: 20px;
+    line-height: 42px;
+    position: absolute;
+    right: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.job-details .job-description #read-more-description::before {
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0, #fff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(255, 255, 255, 0)), color-stop(100%, #fff));
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0, #fff 100%);
+    background: -o-linear-gradient(top, rgba(255, 255, 255, 0) 0, #fff 100%);
+    background: -ms-linear-gradient(top, rgba(255, 255, 255, 0) 0, #fff 100%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, #fff 100%);
+    border-bottom: 5px solid #fff;
+    content: "";
+    display: block;
+    height: 80px;
+    margin: 0 -2px;
+    pointer-events: none;
+    position: absolute;
+    top: -81px;
+    width: 100%;
+}
+.job-details .job-application-form {
+    font-size: 14px;
+}
+.job-details .job-application-form .resumator-mobile-apply-wrapper {
+    background: #f1f3f3;
+    margin: 25px -20px 0;
+    padding: 25px 20px;
+}
+.job-details .job-application-form #resumator-resumes-title,
+.job-details .job-application-form h3 {
+    font-weight: 700;
+    margin: 0 0 5px;
+}
+.job-details .job-application-form .required-help-text {
+    color: #87919b;
+    font-size: 13px;
+    margin: 0 0 30px;
+    text-transform: uppercase;
+}
+.job-details .job-application-form .asterisk {
+    color: #bf2c4b;
+    font-size: 14px;
+    font-weight: 700;
+    margin-left: 5px;
+}
+.job-details .job-application-form .job-form-fields {
+    margin: 30px 0 0;
+}
+#resumator-indeed-apply-widget .job-details .job-application-form,
+.job-details .job-application-form #resumator-indeed-apply-widget > a.indeed-apply-button {
+    width: 258px !important;
+}
+#resumator-indeed2-apply-widget .job-details .job-application-form,
+.job-details .job-application-form #resumator-indeed2-apply-widget > a.indeed-apply-button {
+    width: 228px !important;
+}
+.job-details .job-application-form #resumator-indeed-apply-widget,
+.job-details .job-application-form #resumator-indeed-apply-widget > a.indeed-apply-button,
+.job-details .job-application-form #resumator-indeed2-apply-widget,
+.job-details .job-application-form #resumator-indeed2-apply-widget > a.indeed-apply-button {
+    display: block !important;
+    opacity: 0;
+}
+.job-details .job-application-form #resumator-indeed-apply-widget > a.indeed-apply-button,
+.job-details .job-application-form #resumator-indeed2-apply-widget > a.indeed-apply-button {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    height: 48px !important;
+}
+.job-details .job-application-form #resumator-indeed2-apply-widget > a.indeed-apply-button {
+    height: 46px !important;
+}
+.job-details .job-application-form #resumator-apply-with-indeed-wrapper {
+    height: 50px;
+    position: relative;
+    width: 260px;
+}
+.job-details .job-application-form #resumator-apply-with-indeed2-wrapper {
+    height: 48px;
+    position: relative;
+    width: 230px;
+}
+.job-details .job-application-form .resumator-external-apply-button {
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    font-weight: 600;
+    height: 50px;
+    margin: 0 0 1px;
+    position: relative;
+    text-align: center;
+    width: 260px;
+}
+.job-details .job-application-form .resumator-external-apply-button > div {
+    height: 50px;
+    left: 0;
+    line-height: 50px;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed {
+    background: #fc5909;
+    pointer-events: none;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed > div {
+    position: absolute;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed > div.logo {
+    border-right: 1px solid #fff;
+    font-size: 18px;
+    width: 55px;
+    background: center center/19px 24px no-repeat url(../../../img/v1.1/apply/indeed-logo.png);
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed > div.text {
+    left: 55px;
+    right: 0;
+    text-transform: uppercase;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed2 {
+    background: #fc5909;
+    height: 48px;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    width: 230px;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed2 > div {
+    display: inline-block;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed2 > div.logo {
+    width: 71px;
+    height: 20px;
+    background-image: url(../../../img/v1.1/apply/indeed2-logo.png);
+    background-size: contain;
+}
+.job-details .job-application-form .resumator-external-apply-button.indeed2 > div.text {
+    font-size: 19px;
+    font-weight: 400;
+    margin-right: 3px;
+}
+.job-details .job-application-form form#stage_one_application {
+    display: none;
+}
+.job-details .job-application-form.is-stage-one form#stage_one_application {
+    display: block;
+}
+.job-details .job-application-form.is-stage-one form#form_submit_new_resume {
+    display: none;
+}
+.job-details #resumator-wmyu-count {
+    bottom: 3px;
+    color: #87919b;
+    position: absolute;
+    right: 5px;
+    text-align: right;
+}
+.job-details #resumator-wmyu-count.warning {
+    color: #2b333a;
+}
+.job-details #resumator-wmyu-count.danger {
+    color: #bf2c4b;
+}
+.job-details #eeoc-fields {
+    font-size: 15px;
+    line-height: 24px;
+}
+.job-details #eeoc-fields .resumator-label,
+.job-details #eeoc-fields li,
+.job-details #eeoc-fields p,
+.job-details #eeoc-fields strong,
+.job-details #eeoc-fields ul {
+    font-size: 11pt;
+    line-height: 24px;
+}
+.job-details #eeoc-fields ul {
+    margin: 10px 0 8px 22px;
+}
+.job-details #eeoc-fields hr {
+    background-color: #87919b;
+    border: 0;
+    height: 2px;
+}
+.job-details #eeoc-fields .box-message {
+    border: 1px solid #000;
+    font-weight: 700;
+    margin: 20px 0 10px;
+    padding: 9px 0 11px;
+}
+.job-details #eeoc-fields .footnote {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    top: -0.5em;
+    vertical-align: baseline;
+}
+.job-details #eeoc-fields #disability-input-area,
+.job-details #eeoc-fields #resumator-eeo-new-veteran {
+    clear: both;
+    font-size: 11pt;
+    margin-bottom: 10px;
+}
+.job-details #eeoc-fields #disability-input-area label,
+.job-details #eeoc-fields #resumator-eeo-new-veteran label {
+    font-weight: 400;
+}
+.job-details #eeoc-fields #disabilities-list {
+    column-count: 4;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-gap: 20px;
+    -moz-column-gap: 20px;
+    -webkit-column-gap: 20px;
+    list-style-position: inside;
+    margin-left: 0;
+    padding-left: 0;
+}
+.job-details #eeoc-fields #disability-signature-area {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+.job-details #eeoc-fields #disability-signature-area td,
+.job-details #eeoc-fields #disability-signature-area tr {
+    text-align: center;
+}

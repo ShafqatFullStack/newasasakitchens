@@ -1,0 +1,284 @@
+[
+
+    {
+        "name": "meta_title",
+        "id": "meta_title",
+        "type": "text",
+        "label": "Meta Title",
+        "value": "",
+        "place_holder": "Meta Title",
+        "class": "form-control"
+    },
+    {
+        "name": "meta_keyword",
+        "id": "meta_keyword",
+        "type": "textarea",
+        "label": "Meta Keywords",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "meta_description",
+        "id": "meta_description",
+        "type": "textarea",
+        "label": "Meta Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "main_heading1",
+        "id": "main_heading1",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc1",
+        "id": "short_desc1",
+        "type": "textarea",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+
+    {
+        "name": "main_heading2",
+        "id": "main_heading2",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc2",
+        "id": "short_desc2",
+        "type": "textarea",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+
+
+
+    {
+        "name": "main_heading3",
+        "id": "main_heading3",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc3",
+        "id": "short_desc3",
+        "type": "textarea summmernote",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading4",
+        "id": "main_heading4",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc4",
+        "id": "short_desc4",
+        "type": "textarea",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control summernote",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading5",
+        "id": "main_heading5",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc5",
+        "id": "short_desc5",
+        "type": "textarea",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading6",
+        "id": "main_heading6",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc6",
+        "id": "short_desc6",
+        "type": "textarea",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading7",
+        "id": "main_heading7",
+        "type": "text",
+        "label": "Column Heading",
+        "value": "",
+        "place_holder": "Column Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc7",
+        "id": "short_desc7",
+        "type": "textarea",
+        "label": "Column Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "title1",
+        "id": "title1",
+        "type": "text",
+        "label": "Feature Heading",
+        "value": "",
+        "place_holder": "Feature Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "description1",
+        "id": "description1",
+        "type": "textarea",
+        "label": "Feature Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "title2",
+        "id": "title2",
+        "type": "text",
+        "label": "Feature Heading",
+        "value": "",
+        "place_holder": "Feature Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "description2",
+        "id": "description2",
+        "type": "textarea",
+        "label": "Feature Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "title3",
+        "id": "title3",
+        "type": "text",
+        "label": "Feature Heading",
+        "value": "",
+        "place_holder": "Feature Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "description3",
+        "id": "description3",
+        "type": "textarea",
+        "label": "Feature Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "title4",
+        "id": "title4",
+        "type": "text",
+        "label": "Feature Heading",
+        "value": "",
+        "place_holder": "Feature Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "description4",
+        "id": "description4",
+        "type": "textarea",
+        "label": "Feature Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "title5",
+        "id": "title5",
+        "type": "text",
+        "label": "Feature Heading",
+        "value": "",
+        "place_holder": "Feature Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "description5",
+        "id": "description5",
+        "type": "textarea",
+        "label": "Feature Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    },
+    {
+        "name": "title6",
+        "id": "title6",
+        "type": "text",
+        "label": "Feature Heading",
+        "value": "",
+        "place_holder": "Feature Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "description6",
+        "id": "description6",
+        "type": "textarea",
+        "label": "Feature Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control ",
+        "rows": "4"
+    }
+]

@@ -1,0 +1,351 @@
+[
+
+
+    {
+        "name": "meta_title",
+        "id": "meta_title",
+        "type": "text",
+        "label": "Meta Title",
+        "value": "",
+        "place_holder": "Meta Title",
+        "class": "form-control"
+    },
+    {
+        "name": "meta_keyword",
+        "id": "meta_keyword",
+        "type": "textarea",
+        "label": "Meta Keywords",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "meta_description",
+        "id": "meta_description",
+        "type": "textarea",
+        "label": "Meta Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "slider",
+        "id": "slider",
+        "type": "file",
+        "label": "Slider Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "slider",
+        "type": "hidden",
+        "value": ""
+    },
+    {
+        "name": "slider_title",
+        "id": "slider_title",
+        "type": "text",
+        "label": " Slider Title",
+        "value": "",
+        "place_holder": "Slider Title",
+        "class": "form-control"
+    },
+    {
+        "name": "image_0",
+        "id": "image_0",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_0",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "main_heading0",
+        "id": "main_heading0",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc0",
+        "id": "short_desc0",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+
+    {
+        "name": "image_1",
+        "id": "image_1",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_1",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "main_heading1",
+        "id": "main_heading1",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc1",
+        "id": "short_desc1",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+
+    {
+        "name": "image_2",
+        "id": "image_2",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_2",
+        "type": "hidden",
+        "value": ""
+    },
+
+
+    {
+        "name": "main_heading2",
+        "id": "main_heading2",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc2",
+        "id": "short_desc2",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "icon3",
+        "id": "icon3",
+        "type": "text",
+        "label": " Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading3",
+        "id": "main_heading3",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc3",
+        "id": "short_desc3",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "icon4",
+        "id": "icon4",
+        "type": "text",
+        "label": " Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading4",
+        "id": "main_heading4",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc4",
+        "id": "short_desc4",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "icon5",
+        "id": "icon5",
+        "type": "text",
+        "label": " Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading5",
+        "id": "main_heading5",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc5",
+        "id": "short_desc5",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "icon6",
+        "id": "icon6",
+        "type": "text",
+        "label": " Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading6",
+        "id": "main_heading6",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc6",
+        "id": "short_desc6",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "icon7",
+        "id": "icon7",
+        "type": "text",
+        "label": " Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading7",
+        "id": "main_heading7",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc7",
+        "id": "short_desc7",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "icon8",
+        "id": "icon8",
+        "type": "text",
+        "label": " Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading8",
+        "id": "main_heading8",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc8",
+        "id": "short_desc8",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "side_image",
+        "id": "side_image",
+        "type": "file",
+        "label": "Side Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "side_image",
+        "type": "hidden",
+        "value": ""
+    }
+]

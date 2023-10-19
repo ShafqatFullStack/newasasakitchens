@@ -1,0 +1,268 @@
+
+/*@font-face {
+  font-family: gilroy;
+  src: url(../fonts/Gilroy-Regular.ttf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: renner;
+  src: url(../fonts/Gilroy-Bold.ttf);
+  font-weight: normal;
+}*/
+
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body,html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	font-family: 'Poppins', sans-serif !important;
+}
+
+h1,h2,h3,h4,h5,p,a,li{
+	font-family: 'Poppins', sans-serif !important;
+}
+
+
+
+p{
+	color: #6a6a6a;
+}
+
+/*margins classes*/
+.m-auto{
+	margin: auto !important;
+}
+
+.m-0{
+	margin: 0px !important;
+}
+.m-10{
+	margin: 10px !important;
+}
+.m-15{
+	margin: 15px !important;
+}
+.m-30{
+	margin: 30px !important;
+}
+
+.m-t-0{
+	margin-top: 0px !important;
+}
+.m-t-10{
+	margin-top: 10px !important;
+}
+.m-t-15{
+	margin-top: 15px !important;
+}
+.m-t-20{
+	margin-top: 20px !important;
+}
+.m-t-30{
+	margin-top: 30px !important;
+}
+
+.m-b-0{
+	margin-bottom: 0px !important;
+}
+.m-b-10{
+	margin-bottom: 10px !important;
+}
+.m-b-15{
+	margin-bottom: 15px !important;
+}
+.m-b-30{
+	margin-bottom: 30px !important;
+}
+
+.m-r-0{
+	margin-right: 0px !important;
+}
+.m-r-10{
+	margin-right: 10px !important;
+}
+.m-r-15{
+	margin-right: 15px !important;
+}
+.m-r-30{
+	margin-right: 30px !important;
+}
+
+.m-l-0{
+	margin-left: 0px !important;
+}
+.m-l-10{
+	margin-left: 10px !important;
+}
+.m-l-15{
+	margin-left: 15px !important;
+}
+.m-l-30{
+	margin-left: 30px !important;
+}
+/* paddig classes */
+
+.p-0{
+	padding: 0px !important;
+}
+.p-10{
+	padding: 10px !important;
+}
+.p-15{
+	padding: 15px !important;
+}
+.p-30{
+	padding: 30px !important;
+}
+
+.p-t-0{
+	padding-top: 0px !important;
+}
+.p-t-10{
+	padding-top: 10px !important;
+}
+.p-t-15{
+	padding-top: 15px !important;
+}
+.p-t-30{
+	padding-top: 30px !important;
+}
+
+
+.p-b-0{
+	padding-bottom: 0px !important;
+}
+.p-b-10{
+	padding-bottom: 10px !important;
+}
+.p-b-15{
+	padding-bottom: 15px !important;
+}
+.p-b-30{
+	padding-bottom: 30px !important;
+}
+
+.p-r-0{
+	padding-right: 0px !important;
+}
+.p-r-10{
+	padding-right: 10px !important;
+}
+.p-r-15{
+	padding-right: 15px !important;
+}
+.p-r-30{
+	padding-right: 30px !important;
+}
+
+.p-l-0{
+	padding-left: 0px !important;
+}
+.p-l-10{
+	padding-left: 10px !important;
+}
+.p-l-15{
+	padding-left: 15px !important;
+}
+.p-l-30{
+	padding-left: 30px !important;
+}
+
+/*width and height classes*/
+.width-100per{
+	width: 100%;
+}
+
+.width-auto{
+	width: auto !important;
+}
+
+.height-100per{
+	height: 100% !important;
+}
+
+.height-auto{
+	height: auto !important;
+}
+
+/*display classes*/
+	.d-inline-block{
+		display: inline-block;
+	}
+	.d-inline{
+		display: inline;
+	}
+	.d-table{
+		display: table;
+	}
+	.d-table-cell{
+		display: table-cell;
+	}
+	
+
+/*allignment classes*/
+
+.d-bl-hori-center{
+	display: block !important;
+	margin:0 auto !important;
+}
+
+.d-tb-hori-center{
+	display: table !important;
+	margin:0 auto !important;
+}
+
+.d-vert-center{
+	display: table-cell !important;
+	vertical-align: middle !important;
+}
+
+.d-vert-bottom{
+	display: table-cell !important;
+	vertical-align: bottom !important;
+}
+
+.vert_top{
+	vertical-align: top !important;
+}
+
+/*float classes*/
+.float-left{
+	float: left !important;
+}
+.float-right{
+	float: right !important;
+}
+
+/*text allign classes*/
+
+.text-right{
+	text-align: right;
+}
+
+.text_center{
+	text-align: center !important;
+}
+
+.overflow-hidden{
+	overflow: hidden;
+}
+.terms_nav li {
+    float: right !important;
+}
+
+.active {
+    background-color: #e01216 !important;
+}
+#wpcf7-f112-o2 span .wpcf7-not-valid-tip{
+	color:red;
+}
+

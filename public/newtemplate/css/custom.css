@@ -1,0 +1,59 @@
+
+.services-wrap p{text-align:justify;}
+	.client-section p{font-weight:500}
+	.prev, .next{
+		background:orange;
+		
+	}
+	.services-wrap .text {
+			
+			background:white;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			padding-bottom:12px;
+			/* width:100% !important; */
+		}
+	.whitesmoke{
+		background-position: 50% 158px;background: whitesmoke;
+		
+		}	
+		
+		.whychooseuse_head{border-right: 3px solid #f5b315;padding:10px;}
+		.whychoose_text{width:63%}
+		.whychooseuse{font-size:22px;font-weight:600}
+		
+@media (min-width: 1200px){
+.whychooseuse_head{width:37%;}
+		.whitesmoke2{padding:60px;margin-left:10%;position: relative;}
+		.whitesmoke2 h2{font-size:37px;}
+		.whitesmoke2 p{font-size:20px;}
+		.col-set1{width:37%;}
+		.col-set2{width:63%;}
+		.call-to-action h3 {
+    font-size: 21px;
+    line-height: 3;
+    font-weight: bold;
+}
+			}
+	
+		@media (max-width: 700px) {
+		.whychooseuse_head{width:100%;}
+		.col-set2{width:80%;margin: auto}
+		.whychooseuse{text-align:center}
+		.whychoose_text p {text-align:center;margin-bottom: 71px;
+}
+.whitesmoke2{margin-top: 30px}
+.whychooseuse_head{border-right:0 solid #f5b315;}
+.call-to-action h3 { line-height: 1.;}
+		}
+		
+
+@media (max-width: 600px){
+.dots{display:none !important}
+.services-wrap {
+width:100%;
+}
+.icon{
+	margin:0px auto 20px auto !important; 
+}
+.services-wrap .text{height:334px;}
+}

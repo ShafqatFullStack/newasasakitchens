@@ -1,0 +1,88 @@
+[
+    {
+        "name": "icon",
+        "id": "icon",
+        "type": "text",
+        "label": "Icon Class",
+        "value": "",
+        "place_holder": "Section Icon Class",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "icon1",
+        "id": "icon1",
+        "type": "text",
+        "label": "Icon Class",
+        "value": "",
+        "place_holder": "Section Icon Class",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading1",
+        "id": "main_heading1",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc1",
+        "id": "short_desc1",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "icon2",
+        "id": "icon2",
+        "type": "text",
+        "label": "Icon Class",
+        "value": "",
+        "place_holder": "Section Icon Class",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading2",
+        "id": "main_heading2",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc2",
+        "id": "short_desc2",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    }
+
+
+]

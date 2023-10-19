@@ -1,0 +1,128 @@
+[
+    {
+        "name": "small_heading",
+        "id": "small_heading",
+        "type": "text",
+        "label": "Small Heading",
+        "value": "",
+        "place_holder": "Section Small Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "main_heading0",
+        "id": "main_heading0",
+        "type": "text",
+        "label": "StepHeading",
+        "value": "",
+        "place_holder": "Section Step Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc0",
+        "id": "short_desc0",
+        "type": "textarea",
+        "label": "Step Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading1",
+        "id": "main_heading1",
+        "type": "text",
+        "label": "Step Heading",
+        "value": "",
+        "place_holder": "Section Step Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc1",
+        "id": "short_desc1",
+        "type": "textarea",
+        "label": "Step Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading2",
+        "id": "main_heading2",
+        "type": "text",
+        "label": "Step Heading",
+        "value": "",
+        "place_holder": "Section Step Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc2",
+        "id": "short_desc2",
+        "type": "textarea",
+        "label": "Step Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading3",
+        "id": "main_heading3",
+        "type": "text",
+        "label": "Step Heading",
+        "value": "",
+        "place_holder": "Section Step Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc3",
+        "id": "short_desc3",
+        "type": "textarea",
+        "label": "Step Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "main_heading4",
+        "id": "main_heading4",
+        "type": "text",
+        "label": "Step Heading",
+        "value": "",
+        "place_holder": "Section Step Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc4",
+        "id": "short_desc4",
+        "type": "textarea",
+        "label": "Step Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    }
+
+
+]

@@ -1,0 +1,208 @@
+[
+
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Main Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "short_desc1",
+        "id": "short_desc1",
+        "type": "textarea",
+        "label": "Short Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "service",
+        "id": "service",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+    {
+        "name": "service1",
+        "id": "service1",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+    {
+        "name": "service2",
+        "id": "service2",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+    {
+        "name": "service3",
+        "id": "service3",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+    {
+        "name": "service4",
+        "id": "service4",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+    {
+        "name": "service5",
+        "id": "service5",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+    {
+        "name": "service6",
+        "id": "service6",
+        "type": "text",
+        "label": "Service",
+        "value": "",
+        "place_holder": "Section Service",
+        "class": "form-control"
+    },
+
+    {
+        "name": "question_icon",
+        "id": "question_icon",
+        "type": "text",
+        "label": "question icon",
+        "value": "",
+        "place_holder": "Section question Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "question",
+        "id": "question",
+        "type": "text",
+        "label": "question",
+        "value": "",
+        "place_holder": "Section question",
+        "class": "form-control"
+    },
+    {
+        "name": "question_answer",
+        "id": "question_answer",
+        "type": "text",
+        "label": "question answer",
+        "value": "",
+        "place_holder": "Section Question answer",
+        "class": "form-control"
+    },
+    {
+        "name": "question_icon1",
+        "id": "question_icon1",
+        "type": "text",
+        "label": "question icon",
+        "value": "",
+        "place_holder": "Section question Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "question1",
+        "id": "question1",
+        "type": "text",
+        "label": "question",
+        "value": "",
+        "place_holder": "Section Question",
+        "class": "form-control"
+    },
+    {
+        "name": "question_answer1",
+        "id": "question_answer1",
+        "type": "text",
+        "label": "Question answer",
+        "value": "",
+        "place_holder": "Section question answer",
+        "class": "form-control"
+    },
+    {
+        "name": "question_icon2",
+        "id": "question_icon2",
+        "type": "text",
+        "label": "question icon",
+        "value": "",
+        "place_holder": "Section question Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "question2",
+        "id": "question2",
+        "type": "text",
+        "label": "question",
+        "value": "",
+        "place_holder": "Section Question",
+        "class": "form-control"
+    },
+    {
+        "name": "question_answer2",
+        "id": "question_answer2",
+        "type": "text",
+        "label": "Question answer",
+        "value": "",
+        "place_holder": "Section question answer",
+        "class": "form-control"
+    },
+
+    {
+        "name": "image_1",
+        "id": "image_1",
+        "type": "file",
+        "label": " Main Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_1",
+        "type": "hidden",
+        "value": ""
+    },
+    {
+        "name": "image_2",
+        "id": "image_2",
+        "type": "file",
+        "label": " Side Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_2",
+        "type": "hidden",
+        "value": ""
+    }
+
+]

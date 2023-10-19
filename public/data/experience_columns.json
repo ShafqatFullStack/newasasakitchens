@@ -1,0 +1,301 @@
+[
+    {
+        "name": "small_heading",
+        "id": "small_heading",
+        "type": "text",
+        "label": "Small Heading",
+        "value": "",
+        "place_holder": "Section Small Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+    {
+        "name": "image_0",
+        "id": "image_0",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_0",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "name0",
+        "id": "name0",
+        "type": "text",
+        "label": " Name",
+        "value": "",
+        "place_holder": "Section name",
+        "class": "form-control"
+    },
+    {
+        "name": "icon0",
+        "id": "icon0",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading0",
+        "id": "main_heading0",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc0",
+        "id": "short_desc0",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+
+    {
+        "name": "image_1",
+        "id": "image_1",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_1",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "name1",
+        "id": "name1",
+        "type": "text",
+        "label": " Name",
+        "value": "",
+        "place_holder": "Section name",
+        "class": "form-control"
+    },
+    {
+        "name": "icon1",
+        "id": "icon1",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading1",
+        "id": "main_heading1",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc1",
+        "id": "short_desc1",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+
+    {
+        "name": "image_2",
+        "id": "image_2",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_2",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "name2",
+        "id": "name2",
+        "type": "text",
+        "label": " Name",
+        "value": "",
+        "place_holder": "Section name",
+        "class": "form-control"
+    },
+    {
+        "name": "icon2",
+        "id": "icon2",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading2",
+        "id": "main_heading2",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section Step Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc2",
+        "id": "short_desc2",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+
+    {
+        "name": "image_3",
+        "id": "image_3",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_3",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "name3",
+        "id": "name3",
+        "type": "text",
+        "label": " Name",
+        "value": "",
+        "place_holder": "Section name",
+        "class": "form-control"
+    },
+    {
+        "name": "icon3",
+        "id": "icon3",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading3",
+        "id": "main_heading3",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc3",
+        "id": "short_desc3",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+
+
+    {
+        "name": "image_4",
+        "id": "image_4",
+        "type": "file",
+        "label": " Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_4",
+        "type": "hidden",
+        "value": ""
+    },
+
+    {
+        "name": "name4",
+        "id": "name4",
+        "type": "text",
+        "label": " Name",
+        "value": "",
+        "place_holder": "Section name",
+        "class": "form-control"
+    },
+    {
+        "name": "icon4",
+        "id": "icon4",
+        "type": "text",
+        "label": "Icon",
+        "value": "",
+        "place_holder": "Section Icon",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading4",
+        "id": "main_heading4",
+        "type": "text",
+        "label": " Heading",
+        "value": "",
+        "place_holder": "Section  Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc4",
+        "id": "short_desc4",
+        "type": "textarea",
+        "label": " Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    }
+
+
+]

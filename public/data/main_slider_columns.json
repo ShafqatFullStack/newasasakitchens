@@ -1,0 +1,75 @@
+[
+
+    {
+        "name": "meta_title",
+        "id": "meta_title",
+        "type": "text",
+        "label": "Meta Title",
+        "value": "",
+        "place_holder": "Meta Title",
+        "class": "form-control"
+    },
+    {
+        "name": "meta_keyword",
+        "id": "meta_keyword",
+        "type": "textarea",
+        "label": "Meta Keywords",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "meta_description",
+        "id": "meta_description",
+        "type": "textarea",
+        "label": "Meta Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "small_heading",
+        "id": "small_heading",
+        "type": "text",
+        "label": "Small Heading",
+        "value": "",
+        "place_holder": "Section Small Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "main_heading",
+        "id": "main_heading",
+        "type": "text",
+        "label": "Heading",
+        "value": "",
+        "place_holder": "Section Heading",
+        "class": "form-control"
+    },
+    {
+        "name": "short_desc",
+        "id": "short_desc",
+        "type": "textarea",
+        "label": "Description",
+        "value": "",
+        "place_holder": "",
+        "class": "form-control",
+        "rows": "4"
+    },
+    {
+        "name": "image_1",
+        "id": "image_1",
+        "type": "file",
+        "label": " Main Image",
+        "value": "",
+        "class": "form-control",
+        "style": "width:120px;max-width:100%;margin-top:12px"
+    },
+    {
+        "name": "image_1",
+        "type": "hidden",
+        "value": ""
+    }
+
+]
