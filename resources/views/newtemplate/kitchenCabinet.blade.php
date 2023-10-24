@@ -44,7 +44,7 @@
                 </div>
 
             </div>
-            <br>
+
 
 
             </div>
@@ -187,7 +187,7 @@
                                     custom cabinet producers could make a cabinet with pocket entryways or bi-overlay
                                     pivots, permitting the ways to remain shut when you need them to be, or to be concealed
                                     while you aren't utilizing your machines.</p>
-                                <h3>Saying something</h3><br>
+                                <h3>Saying something</h3>
                                 <p>A piece of what causes a kitchen to feel exciting and significant is the nonfunctional
                                     detail. Custom cabinets permit you to admire wood carvings, embellishments, custom
                                     mullion entryways, and different moldings and framing like dot board. A custom producer
@@ -215,7 +215,7 @@
                                     producer will make any formed valance or hood we attract the planning stage an
                                     extraordinary household item for an exceptional home.</p>
 
-                                <h3>It's all in the detail</h3><br>
+                                <h3>It's all in the detail</h3>
                                 <p class="fst-italic">
                                     Assuming you have a sharp eye and an appreciation for scrupulousness and accuracy,
                                     custom cabinets could be an ideal choice for you. With custom cabinets, you can change
@@ -236,7 +236,7 @@
                                     With custom cabinetry, we can change the width of the stile and rail (the pieces that
                                     make up the edge) to arrange. In case something like this matters to you, you ought to
                                     firmly think about custom cabinets!</p>
-                                <h3>Quality</h3><br>
+                                <h3>Quality</h3>
                                 <p class="fst-italic">
                                     Custom makers highly esteem utilizing the best wood, quality development rehearses, and
                                     solid completions to make an item more similar to furniture than simply a utilitarian

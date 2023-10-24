@@ -23,8 +23,8 @@
 
 
  <section class="section bg-gray-900 box-custom-1">
-        
-		
+
+
 		<div class="slideshow-container" style="width:100%;">
 
 <div class="box-custom-1-main mobheight" >
@@ -37,16 +37,16 @@
 				<a class="radius button button-primary button-shadow wow fadeInRight" href="tel:+1-647-956-1116" style="margin-top:5%;">+1-647-956-1116</a>
 
 			<a class="radius button button-primary button-shadow wow fadeInRight" href="{{route('contact.kitchen')}}" style="margin-top:5%;">Get In Touch</a>
-			
+
            </div>
         </div>
-		
+
 </div>
 <br>
-	
-		
+
+
           </div>
- 	
+
       </section>
 
 
@@ -73,36 +73,36 @@
 </section>
 
 
- 
-  
+
+
 <section class="call-to-action  gray-light-bg" style="padding:0px;">
             <div class="container-fluid" style="background: white;">
                 <div class="row justify-content-around align-items-center">
 				<div class="col-sm-11" style="background: white;">
-                    					  						
+
 			<div class="row content" style="background: white;">
           <div class="col-md-4" data-aos="fade-right">
             <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/3.png') }}" class="img-fluid" alt="">
           </div>
           <div class="col-md-8" data-aos="fade-up">
             <div class="section-title" data-aos="fade-up">
-          
-          
+
+
         </div>
-		
-            
-			
+
+
+
             <p>Kitchen countertops are one of your household's most dedicated surfaces. Being one of the most significant surface regions, they additionally impact your general <a href="{{ route('style')}}" >kitchen style </a>. This makes it essential to coordinate with its style and material with the remainder of the stylistic layout while guaranteeing appropriate for your way of life.</p>
 			<br>
-			  
-            <p>In case you're looking for kitchen countertops in Toronto, you're in the perfect spot. At ASASA Kitchen, we offer excellent kitchen countertops at reasonable costs. You can look over a broad scope of quartz and stone countertops customized to fit any stylistic layout style, going from customary to today.</p>	
+
+            <p>In case you're looking for kitchen countertops in Toronto, you're in the perfect spot. At ASASA Kitchen, we offer excellent kitchen countertops at reasonable costs. You can look over a broad scope of quartz and stone countertops customized to fit any stylistic layout style, going from customary to today.</p>
 			<h3>Picking Best Kitchen Countertops</h3>
-			
+
             <p class="fst-italic">
 			The kitchen is the center of the opinion of your home, and your countertops assume a colossal part in the space's plan and usefulness.
 			</p>
-			
-			
+
+
 			 </div>
 		</div>
 		<div class="row content" style="background: white;">
@@ -111,33 +111,33 @@
           </div>
           <div class="col-md-8  order-2 order-md-1" data-aos="fade-up">
 		  <p class="fst-italic">
-		   Distinctive surface materials give different strengths, opposition, and style choices, so picking a shelf should be a significant piece of the kitchen arrangement process. 
-            
+		   Distinctive surface materials give different strengths, opposition, and style choices, so picking a shelf should be a significant piece of the kitchen arrangement process.
+
 In case you're searching for help, plan a counsel with an in-store <a href="{{ route('home')}}" >kitchen renovation professionals </a> . We can even introduce them to you.
 			</p><br>
-		 
+
 			<p class="fst-italic">
 			Overlay countertops are a more spending plan well-disposed choice and give excellent stain-, hotness and effect opposition, settling on them an extraordinary decision for any kitchen plan. In case you're searching for a more rural choice, a butcher square ledge provides you with the traditional look of wood, which can carry a dash of farmhouse nation to any plan.
             </p>
 			 <br>
             <p class="fst-italic">
 			Corian countertops are swayed safe and are even repairable, giving you true serenity. They arrive in a variety of tones and are non-permeable to assist with impeding stains.
-          
+
 Stone countertops are rugged and simple to clean, while Bamboo countertops have a fantastic, regular look that praises a more rustic style.
-			</p>		            
-           
+			</p>
+
           </div>
         </div>
 
-		
 
-		
-					
-					 </div>			
+
+
+
+					 </div>
 				</div>
             </div>
-			
-			
+
+
         </section>
 
 
@@ -161,11 +161,11 @@ Stone countertops are rugged and simple to clean, while Bamboo countertops have 
     <div class="card-body-right">
       <h2 class="card-title">Quartz Countertops</h2>
       <p class="card-text"> Quartz opposes breaks, imprints, and scratches. It is a fabricated item made utilizing around 95% ground quartz with 5% pitches and polymers. Being a fake item, it is totally adaptable as far as configuration, tones, and examples. Since quartz is a designed material, it is pre-fixed, so it doesn't need intermittent fixing. Its adaptability makes it appropriate for the two kitchens and washrooms.</p>
-	  
-    
+
+
     </div>
      </div>
-  </div> 
+  </div>
   </div>
 </div>
 
@@ -173,19 +173,19 @@ Stone countertops are rugged and simple to clean, while Bamboo countertops have 
 <div class="container section-sub">
 <div class="card" style="width:100% ">
 <div class="row elementor-row2">
-  
+
   <div class="col-sm-5 contentsection">
     <div class="card-body-right">
       <h2 class="card-title">Granite Countertops</h2>
       <p class="card-text"> Stone is stain-and hotness safe. It is a characteristic item that is quarried from one side of the planet to the other. The material is accessible in various examples, shadings, and plans attributable to its arrangement (quickly cooling and hardening of liquid materials). The stone should be intermittently fixed to keep up with its solidness and appearance as a permeable material. A stone ledge can increase the value of your property, making it reasonable speculation.</p>
-	 
-    
+
+
     </div>
      </div>
 	 <div class="col-sm-7 imagessection">
     <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/sub2.png') }}" alt="Card image" style="width:100%;">
   </div>
-  </div> 
+  </div>
   </div>
 </div>
 
@@ -201,11 +201,11 @@ Stone countertops are rugged and simple to clean, while Bamboo countertops have 
     <div class="card-body-right">
       <h2 class="card-title">Marble Countertops</h2>
       <p class="card-text">Marble is a permeable material that is helpless to staining. It needs an expert fixing upon the establishment and normal resealing one time per year, which should be possible at home with a locally acquired sealer. For a costly, excellent, and gentler material like marble, proficient establishment is prescribed to abstain from paying for harm caused during DIY establishments.</p>
-    
+
     </div>
      </div>
-	 
-  </div> 
+
+  </div>
   </div>
 </div>
 </section>
@@ -335,7 +335,7 @@ We are getting the trust of many of our clients. We have provided our clients 10
 <div class="wb_ebais_twentytwenty_container twentytwenty-container" id="wb_before_after_b92eaa5">
 <span class='before_text'>Before</span>
 <span class='after_text'>After</span>
-<img width="1000" height="562" src="../public/newtemplate/asasa-kitchen/service/countertop/1b.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../public/newtemplate/asasa-kitchen/service/countertop/1b.png 1000w, ../public/newtemplate/asasa-kitchen/service/countertop/1b.png 300w, ../public/newtemplate/asasa-kitchen/service/countertop/1b.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><img width="1000" height="562" src="../public/newtemplate/asasa-kitchen/service/countertop/1a.png" class="attachment-full size-full" alt="kitchen company toronto renovation cabinets" loading="lazy" srcset="../public/newtemplate/asasa-kitchen/service/countertop/1a.png 1000w, ../public/newtemplate/asasa-kitchen/service/countertop/1a.png 300w, ../public/newtemplate/asasa-kitchen/service/countertop/1a.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />		</div>
+<img width="1000" height="562" src="../newtemplate/asasa-kitchen/service/countertop/1b.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../newtemplate/asasa-kitchen/service/countertop/1b.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/1b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/1b.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><img width="1000" height="562" src="../newtemplate/asasa-kitchen/service/countertop/1a.png" class="attachment-full size-full" alt="kitchen company toronto renovation cabinets" loading="lazy" srcset="../newtemplate/asasa-kitchen/service/countertop/1a.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/1a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/1a.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />		</div>
 <style>
 #wb_before_after_b92eaa5{
 max-width: auto;
@@ -384,7 +384,7 @@ max-width: auto;
 <div class="wb_ebais_twentytwenty_container twentytwenty-container" id="wb_before_after_5a903f7">
 <span class='before_text'>Before</span>
 <span class='after_text'>After</span>
-<img width="804" height="538" src="../public/newtemplate/asasa-kitchen/service/countertop/2b.png" class="attachment-full size-full" alt="Kitchen Renovation Toronto Company Before" loading="lazy" srcset="../public/newtemplate/asasa-kitchen/service/countertop/2b.png 804w, ../public/newtemplate/asasa-kitchen/service/countertop/2b.png 300w, ../public/newtemplate/asasa-kitchen/service/countertop/2b.png 768w" sizes="(max-width: 804px) 100vw, 804px" /><img width="804" height="538" src="../public/newtemplate/asasa-kitchen/service/countertop/2a.png" class="attachment-full size-full" alt="Kitchen Renovation Toronto Company After" loading="lazy" srcset="../public/newtemplate/asasa-kitchen/service/countertop/2a.png 804w, ../public/newtemplate/asasa-kitchen/service/countertop/2a.png 300w, ../public/newtemplate/asasa-kitchen/service/countertop/2a.png 768w" sizes="(max-width: 804px) 100vw, 804px" />		</div>
+<img width="804" height="538" src="../newtemplate/asasa-kitchen/service/countertop/2b.png" class="attachment-full size-full" alt="Kitchen Renovation Toronto Company Before" loading="lazy" srcset="../newtemplate/asasa-kitchen/service/countertop/2b.png 804w, ../newtemplate/asasa-kitchen/service/countertop/2b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/2b.png 768w" sizes="(max-width: 804px) 100vw, 804px" /><img width="804" height="538" src="../newtemplate/asasa-kitchen/service/countertop/2a.png" class="attachment-full size-full" alt="Kitchen Renovation Toronto Company After" loading="lazy" srcset="../newtemplate/asasa-kitchen/service/countertop/2a.png 804w, ../newtemplate/asasa-kitchen/service/countertop/2a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/2a.png 768w" sizes="(max-width: 804px) 100vw, 804px" />		</div>
 <style>
 #wb_before_after_5a903f7{
 max-width: auto;
@@ -504,7 +504,7 @@ max-width: auto;
 <div class="wb_ebais_twentytwenty_container twentytwenty-container" id="wb_before_after_b92eaa5">
 <span class='before_text'>Before</span>
 <span class='after_text'>After</span>
-<img width="1000" height="562" src="../public/newtemplate/asasa-kitchen/service/countertop/3b.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../public/newtemplate/asasa-kitchen/service/countertop/3b.png 1000w, ../public/newtemplate/asasa-kitchen/service/countertop/3b.png 300w, ../public/newtemplate/asasa-kitchen/service/countertop/3b.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><img width="1000" height="562" src="../public/newtemplate/asasa-kitchen/service/countertop/3a.png" class="attachment-full size-full" alt="kitchen company toronto renovation cabinets" loading="lazy" srcset="../public/newtemplate/asasa-kitchen/service/countertop/3a.png 1000w, ../public/newtemplate/asasa-kitchen/service/countertop/3a.png 300w, ../public/newtemplate/asasa-kitchen/service/countertop/3a.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />		</div>
+<img width="1000" height="562" src="../newtemplate/asasa-kitchen/service/countertop/3b.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../newtemplate/asasa-kitchen/service/countertop/3b.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><img width="1000" height="562" src="../newtemplate/asasa-kitchen/service/countertop/3a.png" class="attachment-full size-full" alt="kitchen company toronto renovation cabinets" loading="lazy" srcset="../newtemplate/asasa-kitchen/service/countertop/3a.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />		</div>
 <style>
 #wb_before_after_b92eaa5{
 max-width: auto;
@@ -536,11 +536,11 @@ max-width: auto;
             <div class="container-fluid" style="background: white;">
                 <div class="row justify-content-around align-items-center">
 				<div class="col-sm-11" style="background: white;">
-                    					  
-						
 
-						
-						
+
+
+
+
 			<div class="row content" style="background: white;">
           <div class="col-md-4" data-aos="fade-right">
             <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/1.png') }}" class="img-fluid" style="height:100%">
@@ -548,10 +548,10 @@ max-width: auto;
           <div class="col-md-8 " data-aos="fade-up">
             <div class="section-title" data-aos="fade-up">
            <h3 style="color:#f5b315">Why You Need Kitchen Countertops</h3>
-          
+
         </div>
-            
-			
+
+
             <p class="fst-italic">
              We track examples and concealing figures to guarantee our fulfillment ranges and plans are new and current. In like manner, we screen design headways in each part of the home, especially those that impact or affect the kitchen plan.</p>
 			 <p>Like anything, designs advance and change after some time. Some blast onto the scene and immediately obscure, while others gain specific affirmation and become part of standard style or plan.</p>
@@ -565,7 +565,7 @@ max-width: auto;
           </div>
           <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
               <h3 style="color:#f5b315">Why Choose Us?</h3>
-			
+
             <p class="fst-italic">
             Another kitchen ledge is a generous venture. Regardless of whether you're hoping to carry out a new pattern or have your own vision of what you need your place to resemble, ASASA Kitchen has a wide determination of items for you to browse. We offer the greatest quartz and rock countertops in Toronto and expert establishment administrations to guarantee the final products can be appreciated for quite a long time to come. Here are some different reasons you ought to pick us:
 
@@ -578,19 +578,19 @@ max-width: auto;
 
 </ul><a href="{{route('product.countertops')}}" style="margin:2% 25%;" class="radius button button-primary button-shadow wow fadeInRight">Countertops Products</a>
 
-	
-            
-           
+
+
+
           </div>
         </div>
-		
-		
-					
-					 </div>			
+
+
+
+					 </div>
 				</div>
             </div>
-			
-			
+
+
         </section>
 
 
@@ -601,7 +601,7 @@ max-width: auto;
 
 </body>
 
-<!-- Mirrored from 
+<!-- Mirrored from
 impressionskitchens.com/before-and-after-kitchen-renovations/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Oct 2021 14:28:57 GMT -->
 </html><!-- WP Fastest Cache file was created in 2.8880970478058 seconds, on 24-10-21 12:07:14 -->
 

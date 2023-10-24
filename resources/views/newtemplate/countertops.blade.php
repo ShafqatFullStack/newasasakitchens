@@ -54,7 +54,7 @@ var ctPublicFunctions = {"_ajax_nonce":"cc392bef77","_rest_nonce":"5b17713fd4","
 <style>
 .prev, .next{
 	background:orange;
-} 
+}
 p{
 color:#707070;
 line-height: 1.5;
@@ -93,8 +93,8 @@ text-align: justify;
                 <span class="icon novi-icon fa fa-facebook"></span></a></li>
           </ul>
         </div>
-		
-		
+
+
 		<div class="slideshow-container" style="width:100%;">
 
 
@@ -106,25 +106,25 @@ text-align: justify;
 				<a class="radius button button-primary button-shadow wow fadeInRight" data-wow-delay=".7s" href="tel:+1-807-700-9777" style="margin-top:10%;">+1-807-700-9777</a>
 
 			<a class="radius button button-primary button-shadow wow fadeInRight" data-wow-delay=".7s" href="#" style="margin-top:10%;">Get In Touch</a>
-			
+
            </div>
         </div>
-		
-<div style="text-align:center"> 
-   
+
+<div style="text-align:center">
+
 </div>
 </div>
-<br>
 
 
-        
-		
-	
-  
-		
-		
+
+
+
+
+
+
+
           </div>
- 	
+
       </section>
 
 
@@ -517,11 +517,11 @@ max-width: auto;
             <div class="container-fluid" style="background: white;">
                 <div class="row justify-content-around align-items-center">
 				<div class="col-sm-11" style="background: white;">
-                    					  
-						
 
-						
-						
+
+
+
+
 			<div class="row content" style="background: white;">
           <div class="col-md-4" data-aos="fade-right">
             <img src="https://www.netmatico.com/home/home2.png" class="img-fluid" alt="">
@@ -529,10 +529,10 @@ max-width: auto;
           <div class="col-md-8 pt-4" data-aos="fade-up">
             <div class="section-title" data-aos="fade-up">
           <h3>Why You Need Kitchen Countertops</h3>
-          
+
         </div>
-            
-			
+
+
             <p class="fst-italic">
              We track examples and concealing figures to guarantee our fulfillment ranges and plans are new and current. In like manner, we screen design headways in each part of the home, especially those that impact or affect the kitchen plan.
 			  </p><p class="fst-italic">
@@ -551,7 +551,7 @@ In the photos above and under, a couple of models are shown with a smooth, monoc
           </div>
           <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
              <h3>Why Choose Us?</h3>
-			
+
             <p class="fst-italic">
             Another kitchen ledge is a generous venture. Regardless of whether you're hoping to carry out a new pattern or have your own vision of what you need your place to resemble, ASASA Kitchen has a wide determination of items for you to browse. We offer the greatest quartz and rock countertops in Toronto and expert establishment administrations to guarantee the final products can be appreciated for quite a long time to come. Here are some different reasons you ought to pick us:
 
@@ -563,19 +563,19 @@ In the photos above and under, a couple of models are shown with a smooth, monoc
 <li>We sell items that are utilitarian and appropriate for homes of each shape and size.</li>
 
 </ul>
-			 
-            
-           
+
+
+
           </div>
         </div>
-		
-		
-					
-					 </div>			
+
+
+
+					 </div>
 				</div>
             </div>
-			
-			
+
+
         </section>
 
 
@@ -655,7 +655,7 @@ window.attachEvent("onload", asyncLoad);
 window.addEventListener("load", asyncLoad, false);
 }
 })();
-</script>	
+</script>
 
 </body>
 
@@ -686,15 +686,15 @@ function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
+  if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
   }
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
+  slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
 </script>
