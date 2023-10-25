@@ -36,7 +36,7 @@
                             style="margin-top:5%;">+1-647-956-1116</a>
 
                         <a class="radius button button-primary button-shadow wow fadeInRight"
-                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Get In Touch</a>
+                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Free Estimate</a>
 
                     </div>
                 </div>
