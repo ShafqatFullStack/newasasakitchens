@@ -27,7 +27,7 @@
 
                 <div class="box-custom-1-main mobheight">
                     <img class="anim"
-                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.jpg') }}">
+                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.webp') }}">
                     <div class="block-sm mobblock" style="padding-top:10% !important;">
 
                         <h2 style="color:#fff">Kitchen Cabinets</h2>
@@ -38,7 +38,7 @@
                             style="margin-top:5%;color:#000">+1-647-956-1116</a>
 
                         <a class="radius button button-primary button-shadow wow fadeInRight"
-                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Get In Touch</a>
+                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Book Free Consultation</a>
 
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <div class="row justify-content-center ">
                             <div class="col-md-12 heading-section ">
 
-                                <h3 class="" style="text-align:center">Kitchen Cabinets Product</h3>
+                                <h3 class="" style="text-align:center">KITCHEN CABINETS by ASASA</h3>
                                 <span class="subheading " style="display: inline-flex;">
                                     <hr style="width:50px; border:1px solid;margin: 5px;"><span
                                         class="icon novi-icon fab fa-youtube"></span>
@@ -93,18 +93,29 @@
 
                                 </div>
 
-                                <p>The outstanding pre-consultation services offered by ASASA Construction include careful listening to your demands and providing knowledgeable guidance for your construction and renovation projects. Your idea will be stunningly realized thanks to the guidance of their team of experts, who will cater to you through the entire process. You can count on excellent service and individualized attention from ASASA Construction from beginning to end.</p>
+                                <p>The outstanding pre-consultation services offered by ASASA Construction include careful listening to your
+                                    demands and providing knowledgeable guidance for your construction and renovation projects. Your idea
+                                    will be stunningly realized thanks to the guidance of their team of experts, who will cater to you through
+                                    the entire process. You can count on excellent service and individualized attention from ASASA
+                                    Construction from beginning to end. We are the kitchen renovation experts in Toronto you’re looking
+                                    for.</p>
 
                             </div>
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/1.jpg') }} "
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/1.webp') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <p class="fst-italic">
-                                    Our specialty at ASASA Construction is turning unfinished kitchens into magnificent works of art. We're honored to be known as Toronto's leading kitchen renovation company for more than ten years in business. If you want to turn your kitchen into a sophisticated bar, our skilled remodeling professionals can make your dream a reality. In Oshawa and nearby locations, we provide customized kitchen remodeling services.</p><br>
+                                    Our specialty at ASASA Construction is turning unfinished kitchens into magnificent works of art. Whether
+                                    it's kitchen cabinets or a complete remodel, we provide the finest kitchen renovations all over Oshawa!
+                                    We're honored to be known as Toronto's leading kitchen renovation company for more than ten years in
+                                    business. If you want to turn your kitchen into a sophisticated bar, our skilled remodeling professionals can
+                                    make your dream a reality. We provide the best custom cabinets in Oshawa. In Oshawa and nearby
+                                    locations, we provide customized kitchen remodeling services. Your trusted kitchen renovation
+                                    contractors in Oshawa, Toronto.</p>
 
 
 
@@ -113,7 +124,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/2.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/2.webp') }}"
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -122,27 +133,30 @@
 
                                 </div>
                                 <p class="fst-italic">
-                                    With Toronto's Most Reliable and Skilled Contractor, let's Make Your Construction and Renovation Projects Come to Life! Get the Best Experts on Board for Your Dream Transformation!"</p>
+                                    With Toronto's Most Reliable and Skilled Contractor, let's Make Your Construction and Renovation
+                                    Projects Come to Life! Get the Best Experts on Board for Your Dream Transformation!"
+                                    </p>
 
 
                             </div>
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/3.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/3.webp') }}"
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
-                                <h3>Shading and entryway determination</h3><br>
+                                <h3>SHADING & ENTRYWAY RESOLUTION</h3>
                                 <p class="fst-italic">
-                                    With custom cabinets, your entryway style and finish choices are basically boundless.
-                                    This is significant because the visual appearance of your cabinets is the point of
-                                    convergence of the type of your kitchen. Custom cabinet producers permit you to shading
-                                    match your kitchen cabinets to any shading you need. There is additionally a more
-                                    considerable determination of entryway styles to look over. Moreover, the maker can
-                                    blend and match various components of entryway development Framing dab, board,
-                                    stiles/rails, and edge to make something exceptionally explicit as you would prefer
-                                    (look for these terms online for explanation).</p>
+                                    Your options for entryway style and finish are virtually endless when it comes to custom cabinetry. ASASA
+                                    is pleased to provide a comprehensive choice of cabinet designs and materials that are more functional and
+                                    spacious than Ikea kitchen cabinets. The visual look of your cabinets is the point of convergence of the kind
+                                    of your kitchen, thus choosing kitchen cabinets is important. As a result, kitchen cabinets should be your
+                                    first focus. ASASA allows you to match your kitchen cabinets to any color you like. There is also a more
+                                    extensive selection of entryway styles to examine. Furthermore, we can mix and match numerous entryway
+                                    development components. To make things extremely explicit, use framing dab, board, stiles/rails, and edge
+                                    (search up these phrases online for definitions).
+                                </p>
 
 
 
@@ -152,7 +166,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/4.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/4.webp') }}"
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -161,7 +175,7 @@
 
                                 </div>
 
-                                <h3>Boundless Space and Storage Solutions</h3><br>
+                                <h3>BOUNDLESS SPACE & STORAGE SOLUTION</h3>
                                 <p class="fst-italic">
                                     In a kitchen plan, each inch counts. Since custom cabinets can be made to (nearly) any
                                     size, this empowers you to get close enough to more space in your kitchen. Those extra
@@ -169,30 +183,28 @@
                                 </p>
                                 <br>
                                 <p class="fst-italic">
-                                    Not exclusively will you add an extra room, you will have the ability to use the space
-                                    in a generally proficient manner. Custom bureau makers can consolidate particular kinds
-                                    of slides, equipment, pivots, and pullouts that are not accessible in semi-custom and
-                                    stock cabinets. </p>
+                                    When using custom kitchen cabinets, you will add an extra room with those extra inches and be able to
+                                    use the space in a generally proficient manner. ASASA can combine specific types of slides, equipment,
+                                    pivots, and pullouts that are not available in semi-custom and custom cabinets.
+                                </p>
 
                             </div>
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/5.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/5.webp') }}"
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
-                                <p>For instance, assuming you might want to have simple admittance to your toaster oven on
-                                    your counter, yet additionally need to conceal it from the site when not utilizing it,
-                                    custom cabinet producers could make a cabinet with pocket entryways or bi-overlay
-                                    pivots, permitting the ways to remain shut when you need them to be, or to be concealed
-                                    while you aren't utilizing your machines.</p>
+                                <p>For example, if you would like your toaster oven to be easily accessible from your counter but also hidden
+                                    when you're not using it, we can build a cabinet with pocket doors or bi-overlay pivots that allow the doors
+                                    to close when you need them to or to be hidden when you're not using your appliances. </p>
                                 <h3>Saying something</h3>
-                                <p>A piece of what causes a kitchen to feel exciting and significant is the nonfunctional
-                                    detail. Custom cabinets permit you to admire wood carvings, embellishments, custom
-                                    mullion entryways, and different moldings and framing like dot board. A custom producer
-                                    will manufacture plant finish any item you send them, and fuse it into their creation
-                                    line to guarantee a quality completed article.</p>
+                                <p>The nonfunctional feature contributes to the excitement and significance of a kitchen. Custom cabinets
+                                    allow you to view wood carvings, decorations, and custom mullion entryways, moldings, and framing like
+                                    dot board. ASASA provides custom cabinets in Oshawa. Just share your requirements, and we will give
+                                    you the best article. We also cater affordable kitchen cabinets.
+                                    </p>
 
 
 
@@ -202,7 +214,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/7.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/7.webp') }}"
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -215,27 +227,25 @@
                                     producer will make any formed valance or hood we attract the planning stage an
                                     extraordinary household item for an exceptional home.</p>
 
-                                <h3>It's all in the detail</h3>
+                                <h3>EVERYTHING IS IN THE DETAIL</h3>
                                 <p class="fst-italic">
-                                    Assuming you have a sharp eye and an appreciation for scrupulousness and accuracy,
-                                    custom cabinets could be an ideal choice for you. With custom cabinets, you can change
-                                    statures and widths so that everything about up. For instance, contingent upon the
-                                    entryway and cabinet style picked and the tallness and arrangement of every bureau, the
-                                    edges of entryways and drawers are not generally in line. </p>
+                                    Custom cabinets may be an excellent alternative for you if you have a keen eye for detail and an appreciation
+                                    for scrupulousness and correctness. Custom cabinets allow you to modify the heights and widths so that
+                                    everything matches. For example, depending on the entryway and cabinet type chosen, as well as the height
+                                    and arrangement of each bureau, the borders of entryways and drawers are not always in line. </p>
 
 
                             </div>
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/8.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/8.webp') }}"
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <p>
-                                    With custom cabinetry, we can change the width of the stile and rail (the pieces that
-                                    make up the edge) to arrange. In case something like this matters to you, you ought to
-                                    firmly think about custom cabinets!</p>
+                                    To arrange, we can adjust the width of the stile and rail (the elements that make up the edge) using tailored
+                                    cabinetry. If this is important to you, you should seriously consider customized cabinetry!</p>
                                 <h3>Quality</h3>
                                 <p class="fst-italic">
                                     Custom makers highly esteem utilizing the best wood, quality development rehearses, and
