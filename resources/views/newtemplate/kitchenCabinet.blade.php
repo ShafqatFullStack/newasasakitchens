@@ -27,7 +27,7 @@
 
                 <div class="box-custom-1-main mobheight">
                     <img class="anim"
-                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.jpg') }}">
+                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.webp') }}">
                     <div class="block-sm mobblock" style="padding-top:15% !important;">
 
                         <h3 style="color:#fff">Kitchen Cabinets</h3>
