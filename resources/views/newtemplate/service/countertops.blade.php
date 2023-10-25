@@ -25,7 +25,7 @@
             <div class="slideshow-container" style="width:100%;">
 
                 <div class="box-custom-1-main mobheight">
-                    <img class="anim" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/slider/1.png') }}">
+                    <img class="anim" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/slider/2.webp') }}">
                     <div class="block-sm mobblock">
 
                         <h2 style="color:#fff"> Kitchen Countertops</h2>
