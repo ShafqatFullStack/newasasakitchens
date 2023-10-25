@@ -12,7 +12,7 @@
 @endsection
 @section('main-section')
 
-    <body data-rsssl=1 itemtype='https://schema.org/WebPage' itemscope='itemscope'
+    <body data-rsssl=1 itemtype='https://schema.org/jpgage' itemscope='itemscope'
         class="page-template page-template-elementor_header_footer page page-id-1143 ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-3.7.3 ast-header-custom-item-inside group-blog ast-single-post ast-inherit-site-logo-transparent elementor-default elementor-template-full-width elementor-kit-1249 elementor-page elementor-page-1143 astra-addon-3.6.1">
         <!-- Google Tag Manager (noscript) -->
 
@@ -27,18 +27,17 @@
 
                 <div class="box-custom-1-main mobheight">
                     <img class="anim"
-                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.webp') }}">
-                    <div class="block-sm mobblock" style="padding-top:10% !important;">
+                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.jpg') }}">
+                    <div class="block-sm mobblock" style="padding-top:15% !important;">
 
-                        <h2 style="color:#fff">Kitchen Cabinets</h2>
-                        <p style="color:#fff">Welcome to ASASA Kitchen Renovation Services! If you're looking for the top builders and renovators in Toronto, look no further. Our team is committed to reworking your kitchen into a room that goes above and beyond what you had imagined.. Call us now and book
-                            your appointment.</p>
+                        <h3 style="color:#fff">Kitchen Cabinets</h3>
+                        <p style="color:#fff">Welcome to ASASA Kitchen Renovation Services! If you're looking for the top builders and renovators in Toronto, look no further. Our team is committed to reworking your kitchen into a room that goes above and beyond what you had imagined.</p>
                         <div class="linespace"></div>
                         <a class="radius button button-primary button-shadow wow fadeInRight" href="tel:+1-647-956-1116"
-                            style="margin-top:5%;color:#000">+1-647-956-1116</a>
+                            style="margin-top:1%;color:#000">+1-647-956-1116</a>
 
                         <a class="radius button button-primary button-shadow wow fadeInRight"
-                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Book Free Consultation</a>
+                            href="{{ route('contact.kitchen') }}" style="margin-top:1%;">Book Free Consultation</a>
 
                     </div>
                 </div>
@@ -104,7 +103,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/1.webp') }} "
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/1.jpg') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
@@ -124,7 +123,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/2.webp') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/2.jpg') }}"
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -142,7 +141,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/3.webp') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/3.jpg') }}"
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
@@ -166,7 +165,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/4.webp') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/4.jpg') }}"
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -192,7 +191,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/5.webp') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/5.jpg') }}"
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
@@ -214,7 +213,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/7.webp') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/7.jpg') }}"
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -239,7 +238,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/8.webp') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/8.jpg') }}"
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
