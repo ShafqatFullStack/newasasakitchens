@@ -31,7 +31,7 @@
                     <div class="block-sm mobblock" style="padding-top:15% !important;">
 
                         <h3 style="color:#fff">Kitchen Cabinets</h3>
-                        <p style="color:#fff">Welcome to ASASA Kitchen Renovation Services! If you're looking for the top builders and renovators in Toronto, look no further. Our team is committed to reworking your kitchen into a room that goes above and beyond what you had imagined.</p>
+                        <p style="color:#fff"> Welcome to ASASA Kitchen Renovation Services! You've come to the right place if you're looking for the most outstanding renovation services in the GTA. We are committed to offering our clients a premium selection of sophisticated kitchen cabinets to satisfy their storage needs.</p>
                         <div class="linespace"></div>
                         <a class="radius button button-primary button-shadow wow fadeInRight" href="tel:+1-647-956-1116"
                             style="margin-top:1%;color:#000">+1-647-956-1116</a>
