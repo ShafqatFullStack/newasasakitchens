@@ -25,7 +25,7 @@
             <div class="slideshow-container" style="width:100%;">
 
                 <div class="box-custom-1-main mobheight">
-                    <img class="anim" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/slider/2.webp') }}">
+                    <img class="anim" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/slider/4.webp') }}">
                     <div class="block-sm mobblock">
 
                         <h2 style="color:#fff"> Kitchen Countertops</h2>
@@ -82,7 +82,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-4" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/3.png') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/1.webp') }}"
                                     class="img-fluid" alt="">
                             </div>
                             <div class="col-md-8" data-aos="fade-up">
@@ -117,7 +117,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/2.png') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/2.webp') }}"
                                     class="img-fluid" alt="">
                             </div>
                             <div class="col-md-8  order-2 order-md-1" data-aos="fade-up">
@@ -172,7 +172,7 @@
                     </div>
                     <div class="row">
                         <div class="col-sm-7 imagessection">
-                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/sub1.png') }}"
+                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/3.webp') }}"
                                 alt="Card image" style="width:100%;">
                         </div>
                         <div class="col-sm-5 contentsection">
@@ -208,7 +208,7 @@
                             </div>
                         </div>
                         <div class="col-sm-7 imagessection">
-                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/sub2.png') }}"
+                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/4.webp') }}"
                                 alt="Card image" style="width:100%;">
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                 <div class="card" style="width:100% ">
                     <div class="row">
                         <div class="col-sm-6 imagessection">
-                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/sub3.png') }}"
+                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/5.webp') }}"
                                 alt="Card image"/ style="width:100%;">
                         </div>
                         <div class="col-sm-6 contentsection">

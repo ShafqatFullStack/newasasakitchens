@@ -38,7 +38,7 @@ class HomeController extends Controller
     {
         return view('theme.index');
     }
-    
+
     public function ajaxHome()
     {
         return view('theme.ajax-home');
@@ -67,12 +67,12 @@ class HomeController extends Controller
     {
 		$data=$request->all();
 		// dd($data);
-		
+
 		   $mail=Mail::send('newtemplate/emails/career', $data, function ($m) use ($data) {
             // $m->from($data['email'], $data['name']);
             $m->to('career@asasaconstruction.com',$data['name'])
 			->subject($data['post']);
-			
+
         });
 		// dd($request);
         // return view('theme.career');
@@ -94,7 +94,7 @@ class HomeController extends Controller
     {
         return view('theme.single-product');
     }
-    
+
     public function landingPage()
     {
         return view('theme.landing1');
@@ -157,7 +157,7 @@ class HomeController extends Controller
         $tags = Tag::all();
         return view('theme.portfolio-single',['work'=>$blog,'tags'=>$tags,'categories'=>$categories]);
     }
-		
+
 public function single_Project($slug){
         $blog = Work::where("slug",$slug)->first();
         $categories = Category::all();
@@ -197,14 +197,18 @@ public function single_Projects($slug){
 
         );
 
-        Mail::send('admin.emails.ppc', $data, function ($message) use ($data) {
-            $message->to($data['to'],'')
-                ->from('contact@netmatico.com','asasaconstruction.com')
-                ->subject('contact-us');
-        });
+        try{
+            Mail::send('admin.emails.ppc', $data, function ($message) use ($data) {
+                $message->to($data['to'],'')
+                    ->from('contact@netmatico.com','asasaconstruction.com')
+                    ->subject('contact-us');
+            });
+        }catch(\Exception $e){
+
+        }
         Session::flash('success_message', 'Great! Email has been Sent successfully!');
 
-        return redirect()->back();
+        return redirect()->route('thankYou');
     }
 
     public function contactProcess(Request $request){
@@ -231,14 +235,19 @@ public function single_Projects($slug){
 
         );
 
-        Mail::send('admin.emails.contact', $data, function ($message) use ($data) {
-            $message->to($data['to'],'')
-                ->from('contact@asasaconstruction.com')
-                ->subject('contact-us');
-        });
+        try{
+            Mail::send('admin.emails.contact', $data, function ($message) use ($data) {
+                $message->to($data['to'],'')
+                    ->from('contact@asasaconstruction.com')
+                    ->subject('contact-us');
+            });
+        }catch(\Exception $e){
+
+        }
+
         Session::flash('success_message', 'Great! Email has been Sent successfully!');
 
-        return redirect()->back();
+        return redirect()->route('thankYou');
     }
     public function clear(){
         Artisan::call('config:clear');
@@ -250,7 +259,7 @@ public function single_Projects($slug){
         dd("cache cleared");
     }
 	 public function jobsform(Request $request){
-	  
+
 	  // dd();
 	 $this->validate($request, [
             'firstname' => 'required|max:255',
@@ -262,7 +271,7 @@ public function single_Projects($slug){
         if(count($settings)==0){
             $settings = array();
         }
-		
+
 		// $to = ['nilofar.j@netmatico.com','googleppc@netmatico.com','zeeshan.m@netmatico.com'];
         // $to = ['asifshah2k15@gmail.com'];
 		$to = ['career@asasaconstruction.com'];
@@ -278,13 +287,13 @@ public function single_Projects($slug){
             'address' =>$request->input('address'),
 			'logo' => "https://www.asasaconstruction.com/uploads/1859343406logo.svg",
             'to' => $to,
-			
+
 			// 'image' => 'https://www.asasaconstruction.com/newtemplate/asasa/main-service/8.jpg',
 			// $data['to']
-		
-           
+
+
         );
-		
+
 		if($request->file('Resume')){
 			 $file = $request->file('Resume');
 		 // dd($data);
@@ -307,27 +316,27 @@ public function single_Projects($slug){
 				if(isset($data['Resume'])){
 				$message->attach(public_path($data['Resume']));
 				}
-				 
+
 				// ;
 				// ->attachData($data['image'], array $options = []);
         });
-		
+
 		if(count(Mail::failures()) > 0){
-		   
+
 			Session::flash('error_message', 'Failed to send  email, please try again.');
 		}else{
 			Session::flash('success_message', 'Great! Email has been Sent successfully!');
 		}
 		 return redirect()->back();
 		// dd($data);
-  } 
+  }
   public function jobs(Request $request,$id,$slug){
 
 $data['id']=$id;
 return view('newtemplate.jobs',$data);
 	 }
-	 
-	
+
+
 	public function uploadEditorImages(Request $request){
 	  // echo  $fileName = date('Ymdhis',time());
 	  // dd();

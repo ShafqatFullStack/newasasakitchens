@@ -615,7 +615,7 @@
                     <br>
                     <div class="col-md-12" style="display:flex;flex-direction:column;align-items:center">
                         <a href="{{ route('contact.kitchen') }}" style="margin:0  auto 1% auto"
-                            class="radius button button-primary button-shadow wow fadeInRight">Contact Us</a>
+                            class="radius button button-primary button-shadow wow fadeInRight">Book a free 45 min consultation</a>
 
                     </div>
                 </div>

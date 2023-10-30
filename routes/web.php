@@ -181,6 +181,11 @@ Route::get('/service/kitchen-countertops', function () {
     return view('newtemplate.service.countertops');
 })->name('countertops');
 
+Route::get('/thanks-you', function () {
+	// dd();
+    return view('newtemplate.thankYou');
+})->name('thankYou');
+
 Route::get('/service/painted-kitchen', function () {
 	// dd();
     return view('newtemplate.service.painted');
