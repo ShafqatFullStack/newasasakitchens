@@ -886,8 +886,48 @@
 </div>
 
 
-@yield('script')
 
+
+<style>
+    .exit-intent-popup {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        z-index: 1;
+        background: rgba(33, 33, 33, 0.8);
+        transform: translateY(60%) scale(0);
+        transition: transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1);
+    }
+
+    .exit-intent-popup.visible {
+        transform: translateY(0) scale(1);
+    }
+
+    .newsletter {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* Popup-specific styles */
+    .newsletter {
+        background: #FFF;
+        padding: 10px;
+        border-radius: 3px;
+    }
+
+    .close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        cursor: pointer;
+        width: 10px;
+        height: 10px;
+    }
+</style>
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -922,3 +962,70 @@
         $(".bootdey").css("display", "none");
     })
 </script>
+{{-- <script>
+    const CookieService = {
+    setCookie(name, value, days) {
+        console.log('exit setCookie');
+        let expires = '';
+
+        if (days) {
+            const date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = '; expires=' + date.toUTCString();
+        }
+
+        document.cookie = name + '=' + (value || '')  + expires + ';';
+    },
+
+    getCookie(name) {
+        console.log('exit getCookie',name);
+        const cookies = document.cookie.split(';');
+
+        for (const cookie of cookies) {
+            console.log('cokki',cookie)
+            if (cookie.indexOf(name + '=') > -1) {
+                return cookie.split('=')[1];
+            }
+        }
+        console.log('exit getCookie',cookies);
+        return null;
+    }
+};
+const exit = e => {
+    console.log('exit');
+    const shouldExit =
+        [...e.target.classList].includes('exit-intent-popup') || // user clicks on mask
+        e.target.className === 'close' || // user clicks on the close icon
+        e.keyCode === 27; // user hits escape
+
+    if (shouldExit) {
+        document.querySelector('.exit-intent-popup').classList.remove('visible');
+    }
+};
+
+const mouseEvent = e => {
+    console.log('exit' ,'mouseEvent');
+    const shouldShowExitIntent =
+        !e.toElement &&
+        !e.relatedTarget &&
+        e.clientY < 10;
+
+    if (shouldShowExitIntent) {
+        document.removeEventListener('mouseout', mouseEvent);
+        document.querySelector('.exit-intent-popup').classList.add('visible');
+
+        CookieService.setCookie('exitIntentShown', true, 30);
+    }
+};
+
+if (!CookieService.getCookie('exitIntentShown')) {
+    console.log('exit exitIntentShown' );
+    setTimeout(() => {
+        document.addEventListener('mouseout', mouseEvent);
+        document.addEventListener('keydown', exit);
+        document.querySelector('.exit-intent-popup').addEventListener('click', exit);
+    }, 0);
+}
+
+</script> --}}
+@yield('script')

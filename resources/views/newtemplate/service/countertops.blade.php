@@ -25,7 +25,7 @@
             <div class="slideshow-container" style="width:100%;">
 
                 <div class="box-custom-1-main mobheight">
-                    <img class="anim" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/slider/4.webp') }}">
+                    <img class="anim" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/slider/3.webp') }}">
                     <div class="block-sm mobblock">
 
                         <h2 style="color:#fff"> Kitchen Countertops</h2>
@@ -35,8 +35,11 @@
                         <a class="radius button button-primary button-shadow wow fadeInRight" href="tel:+1-647-956-1116"
                             style="margin-top:5%;">+1-647-956-1116</a>
 
-                        <a class="radius button button-primary button-shadow wow fadeInRight"
-                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Free Estimate</a>
+                            <a class="radius button openModal button-primary button-shadow wow fadeInRight"
+                            {{-- href="{{ route('contact.kitchen') }}"  --}} href="javascript:;" style="margin-top:5%;">Free Estimate</a>
+
+                        {{-- <a class="radius button button-primary button-shadow wow fadeInRight"
+                            href="{{ route('contact.kitchen') }}" style="margin-top:5%;">Free Estimate</a> --}}
 
                     </div>
                 </div>
@@ -221,7 +224,7 @@
                 <div class="card" style="width:100% ">
                     <div class="row">
                         <div class="col-sm-6 imagessection">
-                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/5.webp') }}"
+                            <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/6.webp') }}"
                                 alt="Card image"/ style="width:100%;">
                         </div>
                         <div class="col-sm-6 contentsection">
@@ -720,7 +723,7 @@
 
                                             <div class="row content" style="background: white;">
                                                 <div class="col-md-4" data-aos="fade-right">
-                                                    <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/1.png') }}"
+                                                    <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/10.webp') }}"
                                                         class="img-fluid" style="height:100%">
                                                 </div>
                                                 <div class="col-md-8 " data-aos="fade-up">
@@ -746,7 +749,7 @@
                                             </div>
                                             <div class="row content" style="background: white;">
                                                 <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-                                                    <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/whychoose.png') }}"
+                                                    <img src="{{ asset('newtemplate/asasa-kitchen/service/countertop/9.webp') }}"
                                                         class="img-fluid" alt="" style="height:100%">
                                                 </div>
                                                 <div class="col-md-8 order-2 order-md-1" data-aos="fade-up">
@@ -802,8 +805,99 @@
                     </div><!-- #page -->
 
 
+                    {{-- &&&&&&&&&&&&&&&&& MOdal HTML &&&&&&&&&&&&&&&^^^^^^^^^^^^^^^ --}}
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header " style="text-align: center;">
+                    <div class="container">
+                        <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+                    </div>
+                    {{-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button> --}}
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <form action="{{ route('contact-process') }}" method="post"
+                            class="  contact-form php-email-form">
+                            @csrf
+
+                                <input type="text" class="form-control" name="name" required placeholder="Your Name"
+                                    value="{{ old('name') }}">
+                                @if ($errors->get('name'))
+                                    <span style="color:red">{{ $errors->first('name') }}</span>
+                                @else
+                                    &nbsp;
+                                @endif
+
+                                <input type="text" class="form-control" name="email" required placeholder="Your Email"
+                                    value="{{ old('email') }}">
+                                @if ($errors->get('email'))
+                                    <span style="color:red">{{ $errors->first('email') }}</span>
+                                @else
+                                    &nbsp;
+                                @endif
+
+                                <input type="text" class="form-control" name="phone" required placeholder="Phone Number"
+                                    value="{{ old('phone') }}">
+                                @if ($errors->get('phone'))
+                                    <span style="color:red">{{ $errors->first('phone') }}</span>
+                                @else
+                                    &nbsp;
+                                @endif
+
+                                <textarea name="message" id="" cols="5" rows="5" class="form-control" required placeholder="Message">{{ old('message') }}</textarea>
+                                @if ($errors->get('message'))
+                                    <span style="color:red">{{ $errors->first('message') }}</span>
+                                @else
+                                    &nbsp;
+                                @endif
+
+
+
+
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary closeMOdal" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{-- ??????????????? MOdal CLosed %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% --}}
+
+
     </body>
 
 
     </html>
+@endsection
+
+@section('script')
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+        integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
+    </script>
+
+    <script>
+        // $(document).ready(function() {
+        $(".openModal").click(function() {
+            console.log('modal')
+            $("#exampleModal").modal("show");
+        });
+        $(".closeMOdal").click(function() {
+
+            $("#exampleModal").modal("hide");
+        });
+
+        // });
+    </script>
 @endsection

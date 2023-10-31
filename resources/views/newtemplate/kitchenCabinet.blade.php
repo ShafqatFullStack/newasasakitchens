@@ -27,17 +27,20 @@
 
                 <div class="box-custom-1-main mobheight">
                     <img class="anim"
-                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.webp') }}">
+                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/4.webp') }}">
                     <div class="block-sm mobblock" style="padding-top:15% !important;">
 
                         <h3 style="color:#fff">Kitchen Cabinets</h3>
-                        <p style="color:#fff"> Welcome to ASASA Kitchen Renovation Services! You've come to the right place if you're looking for the most outstanding renovation services in the GTA. We are committed to offering our clients a premium selection of sophisticated kitchen cabinets to satisfy their storage needs.</p>
+                        <p style="color:#fff"> Welcome to ASASA Kitchen Renovation Services! You've come to the right place
+                            if you're looking for the most outstanding renovation services in the GTA. We are committed to
+                            offering our clients a premium selection of sophisticated kitchen cabinets to satisfy their
+                            storage needs.</p>
                         <div class="linespace"></div>
                         <a class="radius button button-primary button-shadow wow fadeInRight" href="tel:+1-647-956-1116"
                             style="margin-top:1%;color:#000">+1-647-956-1116</a>
 
-                        <a class="radius button button-primary button-shadow wow fadeInRight"
-                            href="{{ route('contact.kitchen') }}" style="margin-top:1%;">Book Free Consultation</a>
+                        <a class="radius button openModal button-primary button-shadow wow fadeInRight"
+                            {{-- href="{{ route('contact.kitchen') }}"  --}} href="javascript:;" style="margin-top:1%;">Book Free Consultation</a>
 
                     </div>
                 </div>
@@ -92,11 +95,16 @@
 
                                 </div>
 
-                                <p>The outstanding pre-consultation services offered by ASASA Construction include careful listening to your
-                                    demands and providing knowledgeable guidance for your construction and renovation projects. Your idea
-                                    will be stunningly realized thanks to the guidance of their team of experts, who will cater to you through
-                                    the entire process. You can count on excellent service and individualized attention from ASASA
-                                    Construction from beginning to end. We are the kitchen renovation experts in Toronto you’re looking
+                                <p>The outstanding pre-consultation services offered by ASASA Construction include careful
+                                    listening to your
+                                    demands and providing knowledgeable guidance for your construction and renovation
+                                    projects. Your idea
+                                    will be stunningly realized thanks to the guidance of their team of experts, who will
+                                    cater to you through
+                                    the entire process. You can count on excellent service and individualized attention from
+                                    ASASA
+                                    Construction from beginning to end. We are the kitchen renovation experts in Toronto
+                                    you’re looking
                                     for.</p>
 
                             </div>
@@ -108,12 +116,18 @@
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <p class="fst-italic">
-                                    Our specialty at ASASA Construction is turning unfinished kitchens into magnificent works of art. Whether
-                                    it's kitchen cabinets or a complete remodel, we provide the finest kitchen renovations all over Oshawa!
-                                    We're honored to be known as Toronto's leading kitchen renovation company for more than ten years in
-                                    business. If you want to turn your kitchen into a sophisticated bar, our skilled remodeling professionals can
-                                    make your dream a reality. We provide the best custom cabinets in Oshawa. In Oshawa and nearby
-                                    locations, we provide customized kitchen remodeling services. Your trusted kitchen renovation
+                                    Our specialty at ASASA Construction is turning unfinished kitchens into magnificent
+                                    works of art. Whether
+                                    it's kitchen cabinets or a complete remodel, we provide the finest kitchen renovations
+                                    all over Oshawa!
+                                    We're honored to be known as Toronto's leading kitchen renovation company for more than
+                                    ten years in
+                                    business. If you want to turn your kitchen into a sophisticated bar, our skilled
+                                    remodeling professionals can
+                                    make your dream a reality. We provide the best custom cabinets in Oshawa. In Oshawa and
+                                    nearby
+                                    locations, we provide customized kitchen remodeling services. Your trusted kitchen
+                                    renovation
                                     contractors in Oshawa, Toronto.</p>
 
 
@@ -132,9 +146,10 @@
 
                                 </div>
                                 <p class="fst-italic">
-                                    With Toronto's Most Reliable and Skilled Contractor, let's Make Your Construction and Renovation
+                                    With Toronto's Most Reliable and Skilled Contractor, let's Make Your Construction and
+                                    Renovation
                                     Projects Come to Life! Get the Best Experts on Board for Your Dream Transformation!"
-                                    </p>
+                                </p>
 
 
                             </div>
@@ -147,13 +162,20 @@
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <h3>SHADING & ENTRYWAY RESOLUTION</h3>
                                 <p class="fst-italic">
-                                    Your options for entryway style and finish are virtually endless when it comes to custom cabinetry. ASASA
-                                    is pleased to provide a comprehensive choice of cabinet designs and materials that are more functional and
-                                    spacious than Ikea kitchen cabinets. The visual look of your cabinets is the point of convergence of the kind
-                                    of your kitchen, thus choosing kitchen cabinets is important. As a result, kitchen cabinets should be your
-                                    first focus. ASASA allows you to match your kitchen cabinets to any color you like. There is also a more
-                                    extensive selection of entryway styles to examine. Furthermore, we can mix and match numerous entryway
-                                    development components. To make things extremely explicit, use framing dab, board, stiles/rails, and edge
+                                    Your options for entryway style and finish are virtually endless when it comes to custom
+                                    cabinetry. ASASA
+                                    is pleased to provide a comprehensive choice of cabinet designs and materials that are
+                                    more functional and
+                                    spacious than Ikea kitchen cabinets. The visual look of your cabinets is the point of
+                                    convergence of the kind
+                                    of your kitchen, thus choosing kitchen cabinets is important. As a result, kitchen
+                                    cabinets should be your
+                                    first focus. ASASA allows you to match your kitchen cabinets to any color you like.
+                                    There is also a more
+                                    extensive selection of entryway styles to examine. Furthermore, we can mix and match
+                                    numerous entryway
+                                    development components. To make things extremely explicit, use framing dab, board,
+                                    stiles/rails, and edge
                                     (search up these phrases online for definitions).
                                 </p>
 
@@ -182,8 +204,10 @@
                                 </p>
                                 <br>
                                 <p class="fst-italic">
-                                    When using custom kitchen cabinets, you will add an extra room with those extra inches and be able to
-                                    use the space in a generally proficient manner. ASASA can combine specific types of slides, equipment,
+                                    When using custom kitchen cabinets, you will add an extra room with those extra inches
+                                    and be able to
+                                    use the space in a generally proficient manner. ASASA can combine specific types of
+                                    slides, equipment,
                                     pivots, and pullouts that are not available in semi-custom and custom cabinets.
                                 </p>
 
@@ -195,15 +219,21 @@
                                     class="img-fluid" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
-                                <p>For example, if you would like your toaster oven to be easily accessible from your counter but also hidden
-                                    when you're not using it, we can build a cabinet with pocket doors or bi-overlay pivots that allow the doors
-                                    to close when you need them to or to be hidden when you're not using your appliances. </p>
+                                <p>For example, if you would like your toaster oven to be easily accessible from your
+                                    counter but also hidden
+                                    when you're not using it, we can build a cabinet with pocket doors or bi-overlay pivots
+                                    that allow the doors
+                                    to close when you need them to or to be hidden when you're not using your appliances.
+                                </p>
                                 <h3>Saying something</h3>
-                                <p>The nonfunctional feature contributes to the excitement and significance of a kitchen. Custom cabinets
-                                    allow you to view wood carvings, decorations, and custom mullion entryways, moldings, and framing like
-                                    dot board. ASASA provides custom cabinets in Oshawa. Just share your requirements, and we will give
+                                <p>The nonfunctional feature contributes to the excitement and significance of a kitchen.
+                                    Custom cabinets
+                                    allow you to view wood carvings, decorations, and custom mullion entryways, moldings,
+                                    and framing like
+                                    dot board. ASASA provides custom cabinets in Oshawa. Just share your requirements, and
+                                    we will give
                                     you the best article. We also cater affordable kitchen cabinets.
-                                    </p>
+                                </p>
 
 
 
@@ -228,10 +258,14 @@
 
                                 <h3>EVERYTHING IS IN THE DETAIL</h3>
                                 <p class="fst-italic">
-                                    Custom cabinets may be an excellent alternative for you if you have a keen eye for detail and an appreciation
-                                    for scrupulousness and correctness. Custom cabinets allow you to modify the heights and widths so that
-                                    everything matches. For example, depending on the entryway and cabinet type chosen, as well as the height
-                                    and arrangement of each bureau, the borders of entryways and drawers are not always in line. </p>
+                                    Custom cabinets may be an excellent alternative for you if you have a keen eye for
+                                    detail and an appreciation
+                                    for scrupulousness and correctness. Custom cabinets allow you to modify the heights and
+                                    widths so that
+                                    everything matches. For example, depending on the entryway and cabinet type chosen, as
+                                    well as the height
+                                    and arrangement of each bureau, the borders of entryways and drawers are not always in
+                                    line. </p>
 
 
                             </div>
@@ -243,8 +277,10 @@
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <p>
-                                    To arrange, we can adjust the width of the stile and rail (the elements that make up the edge) using tailored
-                                    cabinetry. If this is important to you, you should seriously consider customized cabinetry!</p>
+                                    To arrange, we can adjust the width of the stile and rail (the elements that make up the
+                                    edge) using tailored
+                                    cabinetry. If this is important to you, you should seriously consider customized
+                                    cabinetry!</p>
                                 <h3>Quality</h3>
                                 <p class="fst-italic">
                                     Custom makers highly esteem utilizing the best wood, quality development rehearses, and
@@ -403,8 +439,97 @@
         </div><!-- #page -->
 
 
+        {{-- &&&&&&&&&&&&&&&&& MOdal HTML &&&&&&&&&&&&&&&^^^^^^^^^^^^^^^ --}}
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header " style="text-align: center;">
+                        <div class="container">
+                            <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+                        </div>
+                        {{-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button> --}}
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <form action="{{ route('contact-process') }}" method="post"
+                                class="  contact-form php-email-form">
+                                @csrf
+
+                                    <input type="text" class="form-control" name="name" required placeholder="Your Name"
+                                        value="{{ old('name') }}">
+                                    @if ($errors->get('name'))
+                                        <span style="color:red">{{ $errors->first('name') }}</span>
+                                    @else
+                                        &nbsp;
+                                    @endif
+
+                                    <input type="text" class="form-control" name="email" required placeholder="Your Email"
+                                        value="{{ old('email') }}">
+                                    @if ($errors->get('email'))
+                                        <span style="color:red">{{ $errors->first('email') }}</span>
+                                    @else
+                                        &nbsp;
+                                    @endif
+
+                                    <input type="text" class="form-control" name="phone" required placeholder="Phone Number"
+                                        value="{{ old('phone') }}">
+                                    @if ($errors->get('phone'))
+                                        <span style="color:red">{{ $errors->first('phone') }}</span>
+                                    @else
+                                        &nbsp;
+                                    @endif
+
+                                    <textarea name="message" id="" cols="5" rows="5" class="form-control" required placeholder="Message">{{ old('message') }}</textarea>
+                                    @if ($errors->get('message'))
+                                        <span style="color:red">{{ $errors->first('message') }}</span>
+                                    @else
+                                        &nbsp;
+                                    @endif
+
+
+
+
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary closeMOdal" data-dismiss="modal">Close</button>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{-- ??????????????? MOdal CLosed %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% --}}
+
     </body>
 
 
     </html>
+@endsection
+@section('script')
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+        integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
+    </script>
+
+    <script>
+        // $(document).ready(function() {
+        $(".openModal").click(function() {
+            console.log('modal')
+            $("#exampleModal").modal("show");
+        });
+        $(".closeMOdal").click(function() {
+
+            $("#exampleModal").modal("hide");
+        });
+
+        // });
+    </script>
 @endsection
