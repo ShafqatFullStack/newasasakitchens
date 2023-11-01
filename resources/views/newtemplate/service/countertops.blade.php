@@ -110,7 +110,7 @@
                                 <h3>Deciding on the Best Kitchen Countertops
                                 </h3>
 
-                                <p class="fst-italic">
+                                <p class="">
                                     Kitchen countertops play a foremost important role in the room's layout and functionality, which
                                     is your house's focal point.
                                 </p>
@@ -124,7 +124,7 @@
                                     class="img-fluid" alt="">
                             </div>
                             <div class="col-md-8  order-2 order-md-1" data-aos="fade-up">
-                                <p class="fst-italic">
+                                <p class="">
                                     Different surface materials offer varying advantages, disadvantages, and design options, so
                                     choosing a shelf ought to play a big role in the kitchen layout. If you need assistance, schedule a
                                     consultation with one of our in-store kitchen renovation experts. We can even introduce you to
@@ -132,14 +132,14 @@
 
                                 </p><br>
 
-                                <p class="fst-italic">
+                                <p class="">
                                     Overlay countertops are a more cost-effective option that offers excellent stain-, heat-, and effect
                                     resistance, making them an excellent choice for any kitchen plan. If you're looking for a more
                                     rustic option, a butcher square ledge offers the traditional look of wood, which can add a touch
                                     of farmhouse country to any design.
                                 </p>
                                 <br>
-                                <p class="fst-italic">
+                                <p class="">
                                     Genuine peace of mind is provided by Corian countertops, which are sway-safe and even
                                     repairable. They come in a variety of colors and are non-permeable to help with staining. Stone
                                     countertops are tough and easy to clean, whereas Bamboo countertops have a fantastic, regular
@@ -678,11 +678,11 @@
                                                                                             srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/3.jpg 1000w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 768w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" /><img
                                                                                             width="1000" height="562"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/3.3"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/3.3.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="kitchen company toronto renovation cabinets"
                                                                                             loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/3.3 1000w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/3.3.jpg 1000w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 768w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" />
                                                                                     </div>
                                                                                     <style>
@@ -733,7 +733,7 @@
                                                     </div>
 
 
-                                                    <p class="fst-italic">
+                                                    <p class="">
                                                         In order to ensure that our fulfillment ranges and plans are up to date, we keep track of examples
                                                         and concealing figures. Similarly, we screen design trends in every room of the house, especially
                                                         those that impact or affect the kitchen layout.</p>
@@ -756,27 +756,27 @@
                                                     <h3 style="color:#f5b315">Why Should You Choose Us?
                                                     </h3>
 
-                                                    <p class="fst-italic">
+                                                    <p class="">
                                                         Another kitchen ledge is a kind gesture. Whether you're looking to implement a new trend or have
                                                         your own vision of what your space looks like, ASASA Kitchen has a wide range of items for you
                                                         to browse. We offer the best bathroom and kitchen countertops in Oshawa & Toronto and
                                                         expert installation administrations to ensure the finished products can be enjoyed for a long time.
 
                                                     </p>
-                                                    <p class="fst-italic">Here are some additional reasons why you should choose us:</p>
+                                                    <p class="">Here are some additional reasons why you should choose us:</p>
                                                     <ul class="list-style-ul" style="list-style:unset">
                                                         <li>
-                                                            <p class="fst-italic">We have extensive industry knowledge and work with top-tier administrations.</p>
+                                                            <p class="">We have extensive industry knowledge and work with top-tier administrations.</p>
                                                         </li>
                                                         <li>
-                                                            <p class="fst-italic">We use gifted craftspeople and cutting-edge equipment to install your ledge perfectly and
+                                                            <p class="">We use gifted craftspeople and cutting-edge equipment to install your ledge perfectly and
                                                                 quickly.</p>
                                                         </li>
                                                         <li>
-                                                            <p class="fst-italic">We provide reasonable pricing without sacrificing item quality.</p>
+                                                            <p class="">We provide reasonable pricing without sacrificing item quality.</p>
                                                         </li>
                                                         <li>
-                                                            <p class="fst-italic">We sell functional and suitable items for homes of all shapes and sizes.</p>
+                                                            <p class="">We sell functional and suitable items for homes of all shapes and sizes.</p>
                                                         </li>
 
                                                     </ul><a href="{{ route('product.countertops') }}"

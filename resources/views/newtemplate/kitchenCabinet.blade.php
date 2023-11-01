@@ -115,7 +115,7 @@
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
-                                <p class="fst-italic">
+                                <p class="">
                                     Our specialty at ASASA Construction is turning unfinished kitchens into magnificent
                                     works of art. Whether
                                     it's kitchen cabinets or a complete remodel, we provide the finest kitchen renovations
@@ -145,7 +145,7 @@
 
 
                                 </div>
-                                <p class="fst-italic">
+                                <p class="">
                                     With Toronto's Most Reliable and Skilled Contractor, let's Make Your Construction and
                                     Renovation
                                     Projects Come to Life! Get the Best Experts on Board for Your Dream Transformation!"
@@ -161,7 +161,7 @@
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <h3>SHADING & ENTRYWAY RESOLUTION</h3>
-                                <p class="fst-italic">
+                                <p class="">
                                     Your options for entryway style and finish are virtually endless when it comes to custom
                                     cabinetry. ASASA
                                     is pleased to provide a comprehensive choice of cabinet designs and materials that are
@@ -197,13 +197,13 @@
                                 </div>
 
                                 <h3>BOUNDLESS SPACE & STORAGE SOLUTION</h3>
-                                <p class="fst-italic">
+                                <p class="">
                                     In a kitchen plan, each inch counts. Since custom cabinets can be made to (nearly) any
                                     size, this empowers you to get close enough to more space in your kitchen. Those extra
                                     inches will add stockpiling and counter space that might enormously affect your plan.
                                 </p>
                                 <br>
-                                <p class="fst-italic">
+                                <p class="">
                                     When using custom kitchen cabinets, you will add an extra room with those extra inches
                                     and be able to
                                     use the space in a generally proficient manner. ASASA can combine specific types of
@@ -257,7 +257,7 @@
                                     extraordinary household item for an exceptional home.</p>
 
                                 <h3>EVERYTHING IS IN THE DETAIL</h3>
-                                <p class="fst-italic">
+                                <p class="">
                                     Custom cabinets may be an excellent alternative for you if you have a keen eye for
                                     detail and an appreciation
                                     for scrupulousness and correctness. Custom cabinets allow you to modify the heights and
@@ -282,7 +282,7 @@
                                     cabinetry. If this is important to you, you should seriously consider customized
                                     cabinetry!</p>
                                 <h3>Quality</h3>
-                                <p class="fst-italic">
+                                <p class="">
                                     Custom makers highly esteem utilizing the best wood, quality development rehearses, and
                                     solid completions to make an item more similar to furniture than simply a utilitarian
                                     box to place things in. Client care and tender loving care are essential for the
