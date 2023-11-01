@@ -176,15 +176,15 @@
                     <div class="row">
                         <div class="col-sm-7 imagessection">
                             <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/3.webp') }}"
-                                alt="Card image" style="width:100%;">
+                                alt="Card image" style="width:100%;height:500px;">
                         </div>
                         <div class="col-sm-5 contentsection">
                             <div class="card-body-right">
                                 <h2 class="card-title">Quartz Countertops</h2>
-                                <p class="card-text"> Quartz is resistant to breaks, imprints, and scratches. It is manufactured of approximately 95%
-                                    ground quartz and 5% pitches and polymers. As a forgery, it is entirely adaptable in terms of
-                                    configuration, tones, and examples. Because quartz is a designed material, it is pre-fixed and does
-                                    not require intermittent fixing. Its adaptability makes it suitable for both kitchens and restrooms.</p>
+                                <p class="card-text">
+                                    Quartz is resistant to breaks, imprints, and scratches. Quartz also resists water damage, stains, and mold, making it a tremendous choice for bathrooms, kitchens, and professional environments. Not only that, but Quartz is also heat resistant and non-porous, making it resistant to germs. So it’s a given that Quartz countertops are relatively low maintenance. It is manufactured of approximately 95% ground quartz and 5% pitches and polymers. As a forgery, it is entirely adaptable in terms of configuration, tones, examples and adds value to your house. As quartz is a designed material, it is pre-fixed and does not require intermittent fixing. Its adaptability makes it suitable for both kitchens and restrooms.
+
+                                </p>
 
 
                             </div>
@@ -201,18 +201,14 @@
                         <div class="col-sm-5 contentsection">
                             <div class="card-body-right">
                                 <h2 class="card-title">Granite Countertops</h2>
-                                <p class="card-text"> Stone is heat- and stain-resistant. It is a distinctive item mined from one end of the world to the
-                                    other. Because of its design (quick cooling and hardening of liquid materials), the material is
-                                    available in numerous examples, colors, and plans. The stone should be periodically fixed to
-                                    maintain its solidity and appearance. A stone ledge can increase your property's value, making it
-                                    a good investment.</p>
+                                <p class="card-text"> Stone is heat- and stain-resistant. One of the main benefits of granite is that it can be cleaned with simply a soft cloth and a simple solution, such as dish soap. It won't take much work at all to make it pristine and brilliant. It is a distinctive item mined from one end of the world to the other. Granite countertops are totally level, making them the ideal surface for you to pursue your culinary aspirations. They are fantastic for all of your cooking and baking needs. Because of its design (quick cooling and hardening of liquid materials), the material is available in numerous examples, colors, and plans. The stone should be periodically fixed to maintain its solidity and appearance. A stone ledge can increase your property's value, making it a good investment.</p>
 
 
                             </div>
                         </div>
                         <div class="col-sm-7 imagessection">
                             <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/4.webp') }}"
-                                alt="Card image" style="width:100%;">
+                                alt="Card image" style="width:100%;height:500px;">
                         </div>
                     </div>
                 </div>
@@ -225,7 +221,7 @@
                     <div class="row">
                         <div class="col-sm-6 imagessection">
                             <img class="card-img" src="{{ asset('newtemplate/asasa-kitchen/service/countertop/6.webp') }}"
-                                alt="Card image"/ style="width:100%;">
+                                alt="Card image" style="width:100%;height:400px;">
                         </div>
                         <div class="col-sm-6 contentsection">
                             <div class="card-body-right">
