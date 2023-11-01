@@ -43,7 +43,7 @@
         </div>
     </div>
 
-    <div class="container" style="text-align: center;margin-top:7%;margin-bottom:2%;font-size:22px;">
+    <div class="container" style="text-align: center;margin-top:12%;margin-bottom:5%;font-size:22px;">
         <h3 style="color:red"><strong>Thank You</strong></h3>
 
 

@@ -338,10 +338,10 @@
                                 data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/11.webp') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/1.1.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/11.webp') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/1.1.jpg') }}"
                                             alt="project-img">
 
                                     </a>
@@ -352,10 +352,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/22.webp') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/1.2.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid gallarysize"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/22.webp') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/1.2.jpg') }}"
                                             alt="project-img">
 
                                     </a>
@@ -367,10 +367,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/33.webp') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/2.1.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/33.webp') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/2.1.jpg') }}"
                                             alt="project-img">
 
                                     </a>
@@ -382,10 +382,10 @@
                                 data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/44.webp') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/2.2.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/44.webp') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/2.2.jpg') }}"
                                             alt="project-img">
 
                                     </a>
@@ -397,10 +397,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/55.webp') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/3.1.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/55.webp') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/3.1.jpg') }}"
                                             alt="project-img">
 
                                     </a>
@@ -411,10 +411,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/66.webp') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/3.2.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/66.webp') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/3.2.jpg') }}"
                                             alt="project-img">
 
                                     </a>

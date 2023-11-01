@@ -399,17 +399,17 @@
                                                                                         <span
                                                                                             class='after_text'>After</span>
                                                                                         <img width="1000" height="562"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/1b.png"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/1.1.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/1b.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/1b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/1b.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/1.1.jpg 1000w, ../newtemplate/asasa-kitchen/service/countertop/1b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/1b.png 768w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" /><img
                                                                                             width="1000" height="562"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/1a.png"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/1.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="kitchen company toronto renovation cabinets"
                                                                                             loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/1a.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/1a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/1a.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/1.jpg 1000w, ../newtemplate/asasa-kitchen/service/countertop/1a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/1a.png 768w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" />
                                                                                     </div>
                                                                                     <style>
@@ -476,18 +476,18 @@
                                                                                         <span
                                                                                             class='after_text'>After</span>
                                                                                         <img width="804" height="538"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/2b.png"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/2.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="Kitchen Renovation Toronto Company Before"
                                                                                             loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/2b.png 804w, ../newtemplate/asasa-kitchen/service/countertop/2b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/2b.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/2.jpg 804w, ../newtemplate/asasa-kitchen/service/countertop/2b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/2b.png 768w"
                                                                                             sizes="(max-width: 804px) 100vw, 804px" /><img
                                                                                             width="804" height="538"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/2a.png"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/comp2.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="Kitchen Renovation Toronto Company After"
                                                                                             loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/2a.png 804w, ../newtemplate/asasa-kitchen/service/countertop/2a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/2a.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/comp2.jpg 804w, ../newtemplate/asasa-kitchen/service/countertop/2a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/2a.png 768w"
                                                                                             sizes="(max-width: 804px) 100vw, 804px" />
                                                                                     </div>
                                                                                     <style>
@@ -672,17 +672,17 @@
                                                                                         <span
                                                                                             class='after_text'>After</span>
                                                                                         <img width="1000" height="562"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/3b.png"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/3.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="" loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/3b.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/3.jpg 1000w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3b.png 768w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" /><img
                                                                                             width="1000" height="562"
-                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/3a.png"
+                                                                                            src="../newtemplate/asasa-kitchen/service/countertop/camprison/3.3"
                                                                                             class="attachment-full size-full"
                                                                                             alt="kitchen company toronto renovation cabinets"
                                                                                             loading="lazy"
-                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/3a.png 1000w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 768w"
+                                                                                            srcset="../newtemplate/asasa-kitchen/service/countertop/camprison/3.3 1000w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 300w, ../newtemplate/asasa-kitchen/service/countertop/3a.png 768w"
                                                                                             sizes="(max-width: 1000px) 100vw, 1000px" />
                                                                                     </div>
                                                                                     <style>
