@@ -32,8 +32,6 @@
 
 
                     <div class="block-sm mobblock" style="padding-top:15% !important;">
-                        <a class="radius button openModal button-primary button-shadow "
-                        href="javascript:;" style="margin-top:25%;margin-left:210% !important;">Free 3D Design</a>
 
                         <h3 style="color:#fff">Kitchen Cabinets</h3>
                         <p style="color:#fff"> Welcome to ASASA Kitchen Renovation Services! You've come to the right place
@@ -46,6 +44,8 @@
 
                         <a class="radius button openModal button-primary button-shadow wow fadeInRight"
                             {{-- href="{{ route('contact.kitchen') }}"  --}} href="javascript:;" style="margin-top:1%;">Book Free Consultation</a>
+                            <a class="radius button openModal button-primary button-shadow "
+                            href="javascript:;" style="margin-top:-420px;margin-left:210% !important;">Free 3D Design</a>
 
 
                     </div>
