@@ -27,7 +27,7 @@
                 <div class="box-custom-1-main mobheight">
 
                     <img class="anim"
-                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/4.webp') }}">
+                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/4.4.jpg') }}">
 
 
 
@@ -410,9 +410,11 @@
                                             alt="project-img">
 
                                     </a>
-
                                 </div>
+
+
                             </div><!-- shuffle item 5 end -->
+
 
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;]">
                                 <div class="project-img-container">
@@ -427,6 +429,209 @@
 
                                 </div>
                             </div><!-- shuffle item 6 end -->
+
+
+                            {{-- &&&&&&&&&&&&&&&&&&&&& --}}
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/1.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/1.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/2.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/2.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/3.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/3.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/4.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/4.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/5.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/5.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/6.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/6.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/7.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/7.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/8.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/8.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/9.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/9.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/10.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/10.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/11.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/11.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/12.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/12.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/13.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/13.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/14.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/14.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/15.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/gallery/15.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- shuffle item 5 end -->
+
+
+
                         </div><!-- shuffle end -->
                     </div>
 
