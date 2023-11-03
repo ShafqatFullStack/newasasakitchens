@@ -115,12 +115,92 @@
 
                             </div>
                         </div>
+
+
+
+
+                        {{-- &&&&&&&&&&&&&&& Start Testitmonail Section %%%%%%%%%%%%%%%%%%%%% --}}
+
+                        <section class="ftco-section" id="about-sectiont" id="about-section" style="padding:20px 0 0 0 ;">
+                            <div class="container">
+                                <div class="row">
+
+                                    <div class="col-md-12 ">
+                                        <div class="row justify-content-center ">
+                                            <div class="col-md-12 heading-section ">
+
+                                                <h3 class="" style="text-align:center">Testimonial </h3>
+                                                <span class="subheading " style="display: inline-flex;">
+                                                    <hr style="width:50px; border:1px solid;margin: 5px;"><span
+                                                        class="icon novi-icon fab fa-youtube"></span>
+                                                    <hr style="width:50px; border:1px solid;margin: 5px;">
+                                                </span>
+
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </section>
+
+                        <div class="row">
+                            <!-- video-testimonail -->
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <div class="video-testimonial-block">
+                                    {{-- <div class="video-thumbnail"><img src="https://easetemplate.com/free-website-templates/finvisor/images/testi_img_1.jpg" alt="" class="img-fluid"></div> --}}
+                                    <div class="video">
+                                        <iframe src="https://www.youtube.com/embed/s2ipZrbrdhQ" allowfullscreen>
+                                        </iframe>
+                                    </div>
+                                    <a href="#" class="video-play"></a>
+                                </div>
+
+                            </div>
+                            <!-- /.video-testimonail -->
+                            <!-- video-testimonail -->
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <div class="video-testimonial-block">
+                                    {{-- <div class="video-thumbnail"><img src="https://easetemplate.com/free-website-templates/finvisor/images/testi_img_2.jpg" alt="" class="img-fluid"></div> --}}
+                                    <div class="video">
+                                        <iframe src="https://www.youtube.com/embed/ymqyBXj9Y-8"
+                                         allowfullscreen>
+                                        </iframe>
+                                    </div>
+                                    <a href="#" class="video-play"></a>
+                                </div>
+                                {{-- <div class="video-testimonial-content">
+                                    <h4 class="mb10">Alisha A. Delapaz</h4>
+                                    <p>Retirement Planning</p>
+                                </div> --}}
+                            </div>
+                            <!-- /.video-testimonail -->
+                            <!-- video-testimonail -->
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                                <div class="video-testimonial-block">
+                                    <div class="video-thumbnail">
+                                        {{-- <img src="https://drive.google.com/file/d/13I_0UcHYPbNGRQdeKvk-C0PXJoht-8Ih/view?usp=sharing" alt="" class="img-fluid"></div> --}}
+                                    <div class="video">
+                                        <iframe src="https://www.youtube.com/embed/aVAV2CPJMTE" allowfullscreen>
+                                        </iframe>
+                                    </div>
+                                    <a href="#" class="video-play"></a>
+                                </div>
+
+                            </div>
+                            <!-- /.video-testimonail -->
+                        </div>
+
+                        {{-- ^^^^^^^^^^^^^^^^^^^^^^ End Video Testimonial&&&&&&&&&&&& --}}
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
                                 <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/1.webp') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
+                                <h3>SHADING & ENTRYWAY RESOLUTION</h3>
                                 <p class="">
                                     Our specialty at ASASA Construction is turning unfinished kitchens into magnificent
                                     works of art. Whether
@@ -305,8 +385,27 @@
 
         </section>
 
+        {{-- &&&&&&&&&&&&&&&&&&&&&& Badges Logo&&&&&&&&&&&&&&&&&&&&&&&&& --}}
+        <div class="container" style="margin-top:20px;margin-bottom:20px;text-align:center">
+            <div class="row">
+                <div class="col d-flex flex-row justify-content-between">
+                    <div class="col-md-4">
+                        <img src="{{ asset('bestAwards.png') }}" >
+                    </div>
+
+                    <div class="col-md-4">
+                        <img src="{{ asset('homestars.png') }}">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="{{ asset('googleVerfied.png') }}">
+                    </div>
+
+                </div>
+            </div>
 
 
+        </div>
+        {{-- &&&&&&&&&&&&&&&& Bages end --}}
         <section id="project-area" class="project-area solid-bg">
             <div class="container">
                 <div class="row text-center">
@@ -340,7 +439,7 @@
                         <div class="row shuffle-wrapper">
                             <div class="col-1 shuffle-sizer"></div>
 
-                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                            {{-- <div class="col-lg-4 col-sm-6 shuffle-item"
                                 data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
@@ -428,7 +527,7 @@
                                     </a>
 
                                 </div>
-                            </div><!-- shuffle item 6 end -->
+                            </div><!-- shuffle item 6 end --> --}}
 
 
                             {{-- &&&&&&&&&&&&&&&&&&&&& --}}
