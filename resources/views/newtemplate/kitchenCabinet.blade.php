@@ -44,8 +44,8 @@
 
                         <a class="radius button openModal button-primary button-shadow wow fadeInRight"
                             {{-- href="{{ route('contact.kitchen') }}"  --}} href="javascript:;" style="margin-top:1%;">Book Free Consultation</a>
-                            <a class="radius button openModal button-primary button-shadow "
-                            href="javascript:;" style="margin-top:-420px;margin-left:210% !important;">Free 3D Design</a>
+                        <button class="radius button openModal button-primary button-shadow "
+                            href="javascript:;" style="margin-top:-420px;margin-left:210% !important;">Free 3D Design</button>
 
 
                     </div>
