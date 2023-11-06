@@ -324,7 +324,7 @@
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                                     <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 65%;
+                                    top: 70%;
                                     left: 63%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
