@@ -334,7 +334,7 @@
                                     border: none;
                                     cursor: pointer;
                                     border-radius: 5px;
-                                    text-align: center;">free quotation</button>
+                                    text-align: center;">Free Quotation</button>
 
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
@@ -346,7 +346,7 @@
                                     MDF kitchen cabinets are most frequently utilized. The majority of kitchen cabinets are made of
                                     both MDF and solid wood. </p>
 
-                                <h4>Thermofoil kitchen cabinets express your sense of style and beauty</h4>
+                                    <strong>MDF is an excellent choice in moist areas</strong>
 
                                 <li>Repairing the MDF kitchen cabinet is simple and easy.
                                 </li><li>
@@ -354,7 +354,7 @@
                                 </li><li>  Painted cabinets are more durable.
                                 </li>
 
-                                <h4>Disadvantages of MDF Painted Kitchen Cabinet</h4>
+                                <strong>Disadvantages of MDF Painted Kitchen Cabinet</strong>
 
                                 <li> However, painted kitchen cabinets don't usually last as long as other options.
                             </li><li>  As a luxury option, painted cabinets will always cost more.
@@ -379,7 +379,7 @@
                                     border: none;
                                     cursor: pointer;
                                     border-radius: 5px;
-                                    text-align: center;">free estimation</button>
+                                    text-align: center;">Free Estimation</button>
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
                                 <div class="section-title" data-aos="fade-up">
@@ -395,14 +395,14 @@
                                     One component of a system that applies this vinyl foil on top of prefabricated kitchen cabinet sur
                                     faces is thermofoil.
                                 </p>
-                                <h4>MDF is an excellent choice in moist areas</h4>
 
+                                <strong>Thermofoil kitchen cabinets express your sense of style and beauty</strong>
                                 <li>The allure of thermofoil cabinets is their ability to express your sense of style and beauty
                                     in your kitchen.
                                 </li><li>The availability of Thermofoil cabinets is one of their main advantages
                                 </li><li> Thermofoil cabinets are not only readily available but also incredibly reasonably priced.
                                 </li>
-                                <h3>Painted kitchen cabinets don't usually last longer</h3>
+                                <strong>Painted kitchen cabinets don't usually last longer</strong>
                                 <li>The thermofoil can flake or scorch easily when exposed to a wide temperature range.
                                 </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks
                                 </li><li> As thermofoil is exposed to heat and sunshine, it gradually takes on a dull yellow hue.
@@ -428,7 +428,7 @@
                                     border: none;
                                     cursor: pointer;
                                     border-radius: 5px;
-                                    text-align: center;">free consultation </button>
+                                    text-align: center;">Free Consultation </button>
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <h3>Solid Wood kitchen cabinets</h3>
@@ -438,7 +438,7 @@
                                     wood cabinets and other wood species. The majority of solid wood kitchens are handmade by
                                     skilled craftspeople utilizing methods that date back hundreds of years.
                                 </p>
-                                <h4>Advantages of Solid Wood Kitchen Cabinets</h4>
+                                <strong>Advantages of Solid Wood Kitchen Cabinets</strong>
 
                                 <li>Solid wood cabinetry is renowned for its exceptional stability and longevity.
                                 </li><li> Solid wood kitchen cabinets are particularly easy to clean and maintain.
@@ -446,7 +446,7 @@
                                 </li><li> Solid wood kitchen cabinets have a high resale value that is maintained properly
                                 </li>
 
-                                <h4>Disadvantages of Solid Wood Kitchen Cabinets</h4>
+                                <strong>Disadvantages of Solid Wood Kitchen Cabinets</strong>
 
                                 <li>The cost of solid wood kitchen cabinets is higher than other varieties of cabinet-making
                                     materials
@@ -574,8 +574,8 @@
         {{-- &&&&&&&&&&&&&&&&&&&&&& Badges Logo&&&&&&&&&&&&&&&&&&&&&&&&& --}}
         <div class="container" style="margin-top:20px;margin-bottom:20px;text-align:center">
 
-            <div class="col  d-flex flex-row  justify-content-between">
-                <div class="row">
+            <div class="row  d-flex flex-row ">
+
 
 
                     <div class="col-md-6  col-sm-12 col-lg-3">
@@ -592,7 +592,7 @@
                         <img src="{{ asset('houzz.png') }}" width=150 height=150>
                     </div>
 
-                </div>
+
             </div>
 
 
