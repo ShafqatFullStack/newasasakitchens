@@ -320,20 +320,20 @@
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
 
-                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/mdf2.jpeg') }} "
+                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/mdf.jpg') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                                     <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 60%;
-                                    left: 80%;
+                                    top: 65%;
+                                    left: 63%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
 
                                     font-size: 16px;
-                                    padding: 12px 24px;
+                                    padding: 10px 5px 10px 5px;
                                     border: none;
                                     cursor: pointer;
-                                    border-radius: 5px;
+
                                     text-align: center;">Free Quotation</button>
 
                             </div>
@@ -364,21 +364,21 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/thermo.jpeg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/thermofoil.jpg') }}"
                                     class="img-fluid" alt="" style="width:100%;">
 
                                 <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 60%;
-                                    left: 80%;
+                                    top: 83%;
+                                    left: 63%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
 
                                     font-size: 16px;
-                                    padding: 12px 24px;
+                                    padding: 10px 5px 10px 5px;
                                     border: none;
                                     cursor: pointer;
-                                    border-radius: 5px;
+
                                     text-align: center;">Free Estimation</button>
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
@@ -418,16 +418,16 @@
 
                                 <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 60%;
-                                    left: 80%;
+                                    top: 70%;
+                                    left: 59%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
 
                                     font-size: 16px;
-                                    padding: 12px 24px;
+                                    padding: 10px 5px 10px 5px;
                                     border: none;
                                     cursor: pointer;
-                                    border-radius: 5px;
+
                                     text-align: center;">Free Consultation </button>
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
@@ -457,111 +457,6 @@
                             </div>
                         </div>
 
-                        {{-- <div class="row content" style="background: white;">
-                            <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/4.webp') }}"
-                                    class="img-fluid" alt="" style="height:400px;width:100%;">
-                            </div>
-                            <div class="col-md-5" data-aos="fade-up">
-                                <div class="section-title" data-aos="fade-up">
-
-
-                                </div>
-
-                                <h3>BOUNDLESS SPACE & STORAGE SOLUTION</h3>
-                                <p class="">
-                                    In a kitchen plan, each inch counts. Since custom cabinets can be made to (nearly) any
-                                    size, this empowers you to get close enough to more space in your kitchen. Those extra
-                                    inches will add stockpiling and counter space that might enormously affect your plan.
-                                </p>
-                                <br>
-                                <p class="">
-                                    When using custom kitchen cabinets, you will add an extra room with those extra inches
-                                    and be able to
-                                    use the space in a generally proficient manner. ASASA can combine specific types of
-                                    slides, equipment,
-                                    pivots, and pullouts that are not available in semi-custom and custom cabinets.
-                                </p>
-
-                            </div>
-                        </div>
-                        <div class="row content" style="background: white;">
-                            <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/5.webp') }}"
-                                    class="img-fluid" style="height:400px;width:100%;">
-                            </div>
-                            <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
-                                <p>For example, if you would like your toaster oven to be easily accessible from your
-                                    counter but also hidden
-                                    when you're not using it, we can build a cabinet with pocket doors or bi-overlay pivots
-                                    that allow the doors
-                                    to close when you need them to or to be hidden when you're not using your appliances.
-                                </p>
-                                <h3>Saying something</h3>
-                                <p>The nonfunctional feature contributes to the excitement and significance of a kitchen.
-                                    Custom cabinets
-                                    allow you to view wood carvings, decorations, and custom mullion entryways, moldings,
-                                    and framing like
-                                    dot board. ASASA provides custom cabinets in Oshawa. Just share your requirements, and
-                                    we will give
-                                    you the best article. We also cater affordable kitchen cabinets.
-                                </p>
-
-
-
-                            </div>
-                        </div>
-
-
-                        <div class="row content" style="background: white;">
-                            <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/7.webp') }}"
-                                    class="img-fluid" alt="" style="height:400px;width:100%;">
-                            </div>
-                            <div class="col-md-5" data-aos="fade-up">
-                                <div class="section-title" data-aos="fade-up">
-
-
-                                </div>
-                                <p> Also, custom hood, valance subtleties, sections, legs, turnings, and so forth are not
-                                    just assembled in-house; they can be adjusted and created. For instance, a custom
-                                    producer will make any formed valance or hood we attract the planning stage an
-                                    extraordinary household item for an exceptional home.</p>
-
-                                <h3>EVERYTHING IS IN THE DETAIL</h3>
-                                <p class="">
-                                    Custom cabinets may be an excellent alternative for you if you have a keen eye for
-                                    detail and an appreciation
-                                    for scrupulousness and correctness. Custom cabinets allow you to modify the heights and
-                                    widths so that
-                                    everything matches. For example, depending on the entryway and cabinet type chosen, as
-                                    well as the height
-                                    and arrangement of each bureau, the borders of entryways and drawers are not always in
-                                    line. </p>
-
-
-                            </div>
-                        </div>
-                        <div class="row content" style="background: white;">
-                            <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/8.webp') }}"
-                                    class="img-fluid" style="height:400px;width:100%;">
-                            </div>
-                            <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
-                                <p>
-                                    To arrange, we can adjust the width of the stile and rail (the elements that make up the
-                                    edge) using tailored
-                                    cabinetry. If this is important to you, you should seriously consider customized
-                                    cabinetry!</p>
-                                <h3>Quality</h3>
-                                <p class="">
-                                    Custom makers highly esteem utilizing the best wood, quality development rehearses, and
-                                    solid completions to make an item more similar to furniture than simply a utilitarian
-                                    box to place things in. Client care and tender loving care are essential for the
-                                    situation also. It is doubtful a request will come in off-base, harmed, or sloppy.</p>
-
-                            </div>
-                        </div> --}}
 
 
                     </div>
