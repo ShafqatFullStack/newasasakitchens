@@ -319,10 +319,23 @@
                         {{-- ^^^^^^^^^^^^^^^^^^^^^^ End Video Testimonial&&&&&&&&&&&& --}}
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/mdf1.jpeg') }} "
-                                    class="img-fluid" alt="" style="height:400px;width:100%;">
+
                                     <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/mdf2.jpeg') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
+                                    <button class="radius button openModal button-primary button-shadow "
+                                    href="javascript:;" style="position: absolute;
+                                    top: 50%;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                    -ms-transform: translate(-50%, -50%);
+
+                                    font-size: 16px;
+                                    padding: 12px 24px;
+                                    border: none;
+                                    cursor: pointer;
+                                    border-radius: 5px;
+                                    text-align: center;">Free 3D Design</button>
+
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <h3>Painted MDF Kitchen Cabinets</h3>
@@ -331,27 +344,19 @@
                                     leftovers, including sawdust. MDF has a smooth surface which is ideal for painting cabinets but
                                     is also significantly heavier than other woods due to the materials and production methods used.
                                     MDF kitchen cabinets are most frequently utilized. The majority of kitchen cabinets are made of
-                                    both MDF and solid wood. Due to its ease of painting, ease of cleaning, resistance to warping,
-                                    and other benefits, MDF is typically seen on doors and interior panels. However, MDF is not
-                                    limited to use in kitchens</p>
+                                    both MDF and solid wood. </p>
 
-                                <h3>Advantages of Painted MDF Kitchen Cabinets</h3>
+                                <h4>Advantages of Painted MDF Kitchen Cabinets</h4>
 
-                                <li>Repairing the MDF kitchen cabinet is simple, especially if you plan to change the painted
-                                color after a few years.
-                                </li><li> MDF is an excellent choice in moist areas since it does not expand in moist
-                                environments, whereas wood doors can be challenging to open occasionally.
-                                </li><li>  Painted cabinets are more durable. Painted wood or MDF never peels, but the varieties
-                                    covered in vinyl, foil, or PVC may.
-                                </li><li>  If the surfaces of your cabinets become cracked, scratched, or nicked, the overall
-                                appearance suffers. Retouching any imperfections on your painted cabinets is as easy as
-                                asking for a pot of the original paint.
+                                <li>Repairing the MDF kitchen cabinet is simple and easy.
+                                </li><li>
+                                    MDF is an excellent choice in moist areas since it does not expand in moist environments
+                                </li><li>  Painted cabinets are more durable.
                                 </li>
 
-                                <h3>Disadvantages of MDF Painted Kitchen Cabinet</h3>
+                                <h4>Disadvantages of MDF Painted Kitchen Cabinet</h4>
 
-                                <li> However, painted kitchen cabinets don't usually last as long as other options. Compared
-                                to doors wrapped in vinyl, foil, or PVC, they are more prone to chip.
+                                <li> However, painted kitchen cabinets don't usually last as long as other options.
                             </li><li>  As a luxury option, painted cabinets will always cost more.
                             </li><li>  Painted kitchen cabinets have much longer lead times.</li>
                             </div>
@@ -360,7 +365,21 @@
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
                                 <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/thermo.jpeg') }}"
-                                    class="img-fluid" alt="" style="height:800px;width:100%;">
+                                    class="img-fluid" alt="" style="width:100%;">
+
+                                <button class="radius button openModal button-primary button-shadow "
+                                    href="javascript:;" style="position: absolute;
+                                    top: 50%;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                    -ms-transform: translate(-50%, -50%);
+
+                                    font-size: 16px;
+                                    padding: 12px 24px;
+                                    border: none;
+                                    cursor: pointer;
+                                    border-radius: 5px;
+                                    text-align: center;">Free 3D Design</button>
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
                                 <div class="section-title" data-aos="fade-up">
@@ -374,30 +393,20 @@
                                     However, it appears that Thermofoil is sometimes mistaken for melamine and other laminate mat
                                     erials.
                                     One component of a system that applies this vinyl foil on top of prefabricated kitchen cabinet sur
-                                    faces is thermofoil. Materials like MDF (medium-density fiberboard) are typically
-                                    used to form kitchen cabinets.
-                                    Since MDF is an alternative to natural wood, it is far less expensive to use when building kitchen
-                                    cabinets. Every piece of MDF cabinetry assembled by a cabinet manufacturer has a
-                                    thermofoil attached to it.
-                                    In particular, thermofoil is applied using heat and vacuum to fuse vinyl to the MDF surface
+                                    faces is thermofoil.
                                 </p>
-                                <h3>Advantages of Thermofoil Kitchen Cabinets</h3>
+                                <h4>Advantages of Thermofoil Kitchen Cabinets</h4>
 
                                 <li>The allure of thermofoil cabinets is their ability to express your sense of style and beauty
                                     in your kitchen.
-                                </li><li> The availability of Thermofoil cabinets is one of their main advantages. There will be
-                                    little to no wait when you have them installed at your house.
+                                </li><li>The availability of Thermofoil cabinets is one of their main advantages
                                 </li><li> Thermofoil cabinets are not only readily available but also incredibly reasonably priced.
-                                </li><li> Thermofoil cabinets are made of a material that is resistant to moisture and warps, so you
-                                    can install them in any room of your home without worrying about them buckling or
-                                    deforming. </li>
-                                <h3>Advantages of Thermofoil Kitchen Cabinets</h3>
+                                </li>
+                                <h3>Disadvantages of Thermofoil Kitchen Cabinets</h3>
                                 <li>The thermofoil can flake or scorch easily when exposed to a wide temperature range.
-                                </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks. Even
-                                though an updated appearance could be useful, the thought of replacing your cabinets
-                                every few years might not sit well with you.
+                                </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks
                                 </li><li> As thermofoil is exposed to heat and sunshine, it gradually takes on a dull yellow hue.
-                                </li><li>Another drawback of thermofoil cabinets is that they are not very durable.</li>
+                                </li>
 
 
                             </div>
@@ -405,42 +414,46 @@
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
                                 <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/solid.jpg') }}"
-                                    class="img-fluid" style="height:600px;width:100%;">
+                                    class="img-fluid" style="width:100%;">
+
+                                <button class="radius button openModal button-primary button-shadow "
+                                    href="javascript:;" style="position: absolute;
+                                    top: 50%;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                    -ms-transform: translate(-50%, -50%);
+
+                                    font-size: 16px;
+                                    padding: 12px 24px;
+                                    border: none;
+                                    cursor: pointer;
+                                    border-radius: 5px;
+                                    text-align: center;">Free 3D Design</button>
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <h3>Solid Wood kitchen cabinets</h3>
                                 <p class="">
                                     Solid wood kitchen cabinets refer to cabinets made of cut natural wood, not man-made or
                                     engineered wood. Natural wood cabinets are trendy and slightly more expensive than engineered
-                                    wood cabinets and other wood species, such as wood veneer, plywood, and particleboard cabinets.
-                                    The majority of solid wood kitchens are handmade by skilled craftspeople utilizing methods that
-                                    date back hundreds of years. These abilities cannot be compared to a machine that produces
-                                    hundreds of cabinets per day in a factory. The finished product may not always be superior because
-                                    the raw materials cost more. But what sets solid wood cabinets apart is how long they last.
+                                    wood cabinets and other wood species. The majority of solid wood kitchens are handmade by
+                                    skilled craftspeople utilizing methods that date back hundreds of years.
                                 </p>
-                                <h3>Advantages of Solid Wood Kitchen Cabinets</h3>
+                                <h4>Advantages of Solid Wood Kitchen Cabinets</h4>
 
-                                <li>Solid wood cabinetry is renowned for its exceptional stability and longevity. These
-                                cabinets can last for decades, and their high tear and wear resistance outperforms all other
-                                wooden cabinets.
-                                </li><li> Unlike other kitchen cabinet materials, solid wood kitchen cabinets are particularly easy
-                                to clean and maintain.
-                                </li><li> Unlike cabinets made of petroleum products, wood is a naturally renewable resource with
-                                minimal environmental impact.
-                                </li><li> Solid wood kitchen cabinets have a high resale value that is maintained properly.</li>
+                                <li>Solid wood cabinetry is renowned for its exceptional stability and longevity.
+                                </li><li> Solid wood kitchen cabinets are particularly easy to clean and maintain.
 
-                                <h3>Disadvantages of Solid Wood Kitchen Cabinets</h3>
+                                </li><li> Solid wood kitchen cabinets have a high resale value that is maintained properly
+                                </li>
 
-                                <li>The cost of solid wood kitchen cabinets is slightly higher than that of many other
-                                varieties of cabinet-making materials, including plywood, particleboard, laminate, and
-                                several other comparable goods.
+                                <h4>Disadvantages of Solid Wood Kitchen Cabinets</h4>
+
+                                <li>The cost of solid wood kitchen cabinets is higher than other varieties of cabinet-making
+                                    materials
                                 </li><li> Proper maintenance is the only way to guarantee that wooden kitchen cabinets endure
-                                over time.
-                                </li><li> Wood is well known to be extremely sensitive to moisture. Furthermore, solid wood's
-                                moisture content expands and contracts as climate conditions change, causing the
-                                cabinets to warp over time.
-                                </li><li> Since termites are drawn to wooden surfaces by nature, solid wood cabinets are
-                                particularly vulnerable to termite infestation.</li>
+                                    over time.
+                                </li><li>Solid wood cabinets are particularly vulnerable to termite infestation.
+                                </li>
                             </div>
                         </div>
 
@@ -592,6 +605,11 @@
                 </div>
                 <!--/ Title row end -->
 
+                <style>
+                    .shuffle-item{
+                        padding-bottom: 5px !important;
+                    }
+                    </style>
                 <div class="row">
                     <div class="col-12">
                         <div class="shuffle-btn-group">
@@ -717,20 +735,7 @@
 
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-sm-6 shuffle-item"
-                            data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
-                            <div class="project-img-container">
-                                <a class="gallery-popup"
-                                    href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.jpg') }}"
-                                    aria-label="project-img">
-                                    <img class="img-fluid"
-                                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.jpg') }}"
-                                        alt="project-img">
 
-                                </a>
-
-                            </div>
-                        </div>
 
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
@@ -800,10 +805,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.JPG') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.JPG') }}"
                                             alt="project-img">
 
                                     </a>
@@ -826,10 +831,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.JPG') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.JPG') }}"
                                             alt="project-img">
 
                                     </a>
@@ -839,10 +844,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.JPG') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.JPG') }}"
                                             alt="project-img">
 
                                     </a>
@@ -877,6 +882,20 @@
                             </div>
 
                             {{-- &&&&&&&&&&&&&&&&&&Commercial&&&&&&&&&&&&&&&&&&&&&&& --}}
+                            <div class="col-lg-4 col-sm-6 shuffle-item"
+                                data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+
+                                </div>
+                            </div>
                             <div class="col-lg-4 col-sm-6 shuffle-item"
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
