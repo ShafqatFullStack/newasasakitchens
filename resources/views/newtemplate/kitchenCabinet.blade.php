@@ -155,7 +155,7 @@
 
                     <div class="row">
                         <!-- video-testimonail -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" style="text-align: center;align-items: center;" >
                             <div class="video-testimonial-block">
                                 {{-- <div class="video-thumbnail"><img src="https://easetemplate.com/free-website-templates/finvisor/images/testi_img_1.jpg" alt="" class="img-fluid"></div> --}}
                                 <div class="video">
@@ -168,7 +168,7 @@
                         </div>
                         <!-- /.video-testimonail -->
                         <!-- video-testimonail -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" style="text-align: center;align-items: center;">
                             <div class="video-testimonial-block">
                                 {{-- <div class="video-thumbnail"><img src="https://easetemplate.com/free-website-templates/finvisor/images/testi_img_2.jpg" alt="" class="img-fluid"></div> --}}
                                 <div class="video">
@@ -185,7 +185,7 @@
                         </div>
                         <!-- /.video-testimonail -->
                         <!-- video-testimonail -->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12" style="text-align: center;align-items: center;">
                             <div class="video-testimonial-block">
                                 <div class="video-thumbnail">
                                     {{-- <img src="https://drive.google.com/file/d/13I_0UcHYPbNGRQdeKvk-C0PXJoht-8Ih/view?usp=sharing" alt="" class="img-fluid"></div> --}}
@@ -324,8 +324,8 @@
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                                     <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 50%;
-                                    left: 50%;
+                                    top: 60%;
+                                    left: 80%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
 
@@ -334,7 +334,7 @@
                                     border: none;
                                     cursor: pointer;
                                     border-radius: 5px;
-                                    text-align: center;">Free 3D Design</button>
+                                    text-align: center;">free quotation</button>
 
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
@@ -346,7 +346,7 @@
                                     MDF kitchen cabinets are most frequently utilized. The majority of kitchen cabinets are made of
                                     both MDF and solid wood. </p>
 
-                                <h4>Advantages of Painted MDF Kitchen Cabinets</h4>
+                                <h4>Thermofoil kitchen cabinets express your sense of style and beauty</h4>
 
                                 <li>Repairing the MDF kitchen cabinet is simple and easy.
                                 </li><li>
@@ -369,8 +369,8 @@
 
                                 <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 50%;
-                                    left: 50%;
+                                    top: 60%;
+                                    left: 80%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
 
@@ -379,7 +379,7 @@
                                     border: none;
                                     cursor: pointer;
                                     border-radius: 5px;
-                                    text-align: center;">Free 3D Design</button>
+                                    text-align: center;">free estimation</button>
                             </div>
                             <div class="col-md-5" data-aos="fade-up">
                                 <div class="section-title" data-aos="fade-up">
@@ -395,14 +395,14 @@
                                     One component of a system that applies this vinyl foil on top of prefabricated kitchen cabinet sur
                                     faces is thermofoil.
                                 </p>
-                                <h4>Advantages of Thermofoil Kitchen Cabinets</h4>
+                                <h4>MDF is an excellent choice in moist areas</h4>
 
                                 <li>The allure of thermofoil cabinets is their ability to express your sense of style and beauty
                                     in your kitchen.
                                 </li><li>The availability of Thermofoil cabinets is one of their main advantages
                                 </li><li> Thermofoil cabinets are not only readily available but also incredibly reasonably priced.
                                 </li>
-                                <h3>Disadvantages of Thermofoil Kitchen Cabinets</h3>
+                                <h3>Painted kitchen cabinets don't usually last longer</h3>
                                 <li>The thermofoil can flake or scorch easily when exposed to a wide temperature range.
                                 </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks
                                 </li><li> As thermofoil is exposed to heat and sunshine, it gradually takes on a dull yellow hue.
@@ -418,8 +418,8 @@
 
                                 <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
-                                    top: 50%;
-                                    left: 50%;
+                                    top: 60%;
+                                    left: 80%;
                                     transform: translate(-50%, -50%);
                                     -ms-transform: translate(-50%, -50%);
 
@@ -428,7 +428,7 @@
                                     border: none;
                                     cursor: pointer;
                                     border-radius: 5px;
-                                    text-align: center;">Free 3D Design</button>
+                                    text-align: center;">free consultation </button>
                             </div>
                             <div class="col-md-5  order-2 order-md-1" data-aos="fade-up">
                                 <h3>Solid Wood kitchen cabinets</h3>
@@ -573,19 +573,22 @@
 
         {{-- &&&&&&&&&&&&&&&&&&&&&& Badges Logo&&&&&&&&&&&&&&&&&&&&&&&&& --}}
         <div class="container" style="margin-top:20px;margin-bottom:20px;text-align:center">
-            <div class="row">
-                <div class="col d-flex flex-row justify-content-between">
-                    <div class="col-md-3">
+
+            <div class="col  d-flex flex-row  justify-content-between">
+                <div class="row">
+
+
+                    <div class="col-md-6  col-sm-12 col-lg-3">
                         <img src="{{ asset('recommend.png') }}" width=200 height=200>
                     </div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-6  col-sm-12 col-lg-3">
                         <img src="{{ asset('homestars.png') }}" width=150 height=150>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-6  col-sm-12 col-lg-3">
                         <img src="{{ asset('googleVerfied.png') }}" width=150 height=150>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-6 col-sm-12 col-lg-3">
                         <img src="{{ asset('houzz.png') }}" width=150 height=150>
                     </div>
 
@@ -737,19 +740,7 @@
                             </div>
 
 
-                            <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
-                                <div class="project-img-container">
-                                    <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.jpg') }}"
-                                        aria-label="project-img">
-                                        <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.jpg') }}"
-                                            alt="project-img">
 
-                                    </a>
-
-                                </div>
-                            </div>
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
@@ -766,10 +757,36 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid myImg"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
                                         href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/4.jpg') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
                                             src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/4.jpg') }}"
+                                            alt="project-img">
+
+                                    </a>
+
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
+                                <div class="project-img-container">
+                                    <a class="gallery-popup"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.jpg') }}"
+                                        aria-label="project-img">
+                                        <img class="img-fluid myImg"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.jpg') }}"
                                             alt="project-img">
 
                                     </a>
@@ -815,19 +832,7 @@
 
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
-                                <div class="project-img-container">
-                                    <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.jpg') }}"
-                                        aria-label="project-img">
-                                        <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.jpg') }}"
-                                            alt="project-img">
 
-                                    </a>
-
-                                </div>
-                            </div>
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
