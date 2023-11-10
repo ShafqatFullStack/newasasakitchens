@@ -406,8 +406,7 @@
                                     MDF is an engineering product that is assembled using glue or resins from soft and hardwood
                                     leftovers, including sawdust. MDF has a smooth surface which is ideal for painting cabinets but
                                     is also significantly heavier than other woods due to the materials and production methods used.
-                                    MDF kitchen cabinets are most frequently utilized. The majority of kitchen cabinets are made of
-                                    both MDF and solid wood. </p>
+                                    MDF kitchen cabinets are most frequently utilized.  </p>
 
                                     <strong>Advantages of MDF Painted Kitchen Cabinet</strong>
 
@@ -419,7 +418,7 @@
 
                                 <strong>Disadvantages of MDF Painted Kitchen Cabinet</strong>
 
-                                <li> However, painted kitchen cabinets don't usually last as long as other options.
+                                <li> Painted kitchen cabinets don't last longer
                             </li><li> As a luxury option, painted cabinets will always cost more.
                             </li><li> Painted kitchen cabinets have much longer lead times.
                             </li>
@@ -461,15 +460,14 @@
                                 </p>
 
                                 <strong>Advantages of Thermofoil Kitchen Cabinets</strong>
-                                <li>The allure of thermofoil cabinets is their ability to express your sense of style and beauty
-                                    in your kitchen.
-                                </li><li>The availability of Thermofoil cabinets is one of their main advantages.
-                                </li><li> Thermofoil cabinets are not only readily available but also incredibly reasonably priced.
+                                <li>The allure of thermofoil cabinets is their sense of style.
+                                </li><li>The availability of Thermofoil cabinets is key advantages.
+                                </li><li> Thermofoil cabinets are reasonably priced.
                                 </li>
                                 <strong>Disadvantages of Thermofoil Kitchen Cabinets</strong>
-                                <li>The thermofoil can flake or scorch easily when exposed to a wide temperature range.
-                                </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks.
-                                </li><li> As thermofoil is exposed to heat and sunshine, it gradually takes on a dull yellow hue.
+                                <li>Thermofoil can flake when exposed to a wide temperature range.
+                                </li><li> The thermofoil cabinets have a short lifespan.
+                                </li><li> Thermofoil gets dull if exposed to heat and sunshine.
                                 </li>
 
 
@@ -504,18 +502,16 @@
                                 </p>
                                 <strong>Advantages of Solid Wood Kitchen Cabinets</strong>
 
-                                <li>Solid wood cabinetry is renowned for its exceptional stability and longevity.
-                                </li><li> Solid kitchen cabinet are particularly easy to clean.
+                                <li>Solid wood cabinetry is renowned for its exceptional longevity.
+                                </li><li>Solid kitchen cabinet are particularly easy to clean.
 
-                                </li><li> Solid wood kitchen cabinets have a high resale value that is maintained properly.
+                                </li><li> Solid wood kitchen cabinets have a high resale value.
                                 </li>
 
                                 <strong>Disadvantages of Solid Wood Kitchen Cabinets</strong>
 
-                                <li>The cost of solid wood kitchen cabinets is slightly higher than that of many other
-                                    varieties of cabinet-making materials.
-                                </li><li> Proper maintenance is the only way to guarantee that wooden kitchen cabinets endure
-                                    over time.
+                                <li>The cost of solid wood kitchen cabinets is slightly higher than others.
+                                </li><li> Proper maintenance is mandatory for wooden kitchen cabinets.
                                 </li><li>Solid wood cabinets are vulnerable to termite infestation.
                                 </li>
                             </div>
@@ -569,7 +565,9 @@
 
                 <style>
                     .shuffle-item{
-                        padding-bottom: 5px !important;
+                        padding-bottom: 6px !important;
+                        padding-right: 3.5px !important;
+                        /* padding-: 5px !important; */
                     }
                     </style>
                 <div class="row">
