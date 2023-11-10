@@ -270,13 +270,15 @@
                             </section>
                             <div class="row content" style="background: white;">
 
-                                <div class="col-md-12" data-aos="fade-up">
+
+                                <div class="col-md-5" data-aos="fade-up">
                                     <div class="section-title" data-aos="fade-up">
 
 
                                     </div>
 
-                                    <p>Remodeling an interior kitchen is always one of the most well-liked home improvement projects.
+                                    <p class="">
+                                        Remodeling an interior kitchen is always one of the most well-liked home improvement projects.
                                         If you're considering doing this kind of work, it would be wise to reconsider your original plan and
                                         use your renovation funds to build an outdoor kitchen area instead. We design and build longlasting, exquisite, well-functioning, premium outdoor kitchens for our Oshawa clients and Greater
                                         Toronto. If you already have something in mind, our professional designers will listen to and
@@ -286,8 +288,29 @@
                                         outdoor cooking space. We take care of every step of the process, from design to installation, to
                                         assist you in building your ideal outdoor kitchen. We can fulfill all of your out-of-doors needs and
                                         demands with our custom cabinetry. When it comes to outdoor kitchen areas, ASASA
-                                        Constructions leads the industry.</p>
+                                        Constructions leads the industry.
+                                    </p>
 
+
+
+                                </div>
+                                <div class="col-md-7" data-aos="fade-right">
+                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/outdoor-img.jpg') }}"
+                                        class="img-fluid" alt="" style="width:100%;">
+
+                                    {{-- <button class="radius button openModal button-primary button-shadow "
+                                        href="javascript:;" style="position: absolute;
+                                        top: 83%;
+                                        left: 63%;
+                                        transform: translate(-50%, -50%);
+                                        -ms-transform: translate(-50%, -50%);
+
+                                        font-size: 16px;
+                                        padding: 10px 5px 10px 5px;
+                                        border: none;
+                                        cursor: pointer;
+
+                                        text-align: center;">Free Estimation</button> --}}
                                 </div>
                             </div>
                             {{-- %%%%%%%%%%%%%%%%%%TAK YOUR OUTDOOR &&&&&&&&&&&&&&&&&&&&&& --}}
@@ -360,7 +383,7 @@
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
 
-                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/mdf.jpg') }} "
+                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/3.jpg') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                                     <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
@@ -405,7 +428,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/thermofoil.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/2.jpg') }}"
                                     class="img-fluid" alt="" style="width:100%;">
 
                                 <button class="radius button openModal button-primary button-shadow "
@@ -454,7 +477,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/solid.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/1.jpg') }}"
                                     class="img-fluid" style="width:100%;">
 
                                 <button class="radius button openModal button-primary button-shadow "
