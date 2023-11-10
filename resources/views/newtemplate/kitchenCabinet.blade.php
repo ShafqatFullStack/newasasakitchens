@@ -121,7 +121,7 @@
                                     Construction to provide you with exceptional service and personalized attention. For the ultimate
                                     guidance and pointers from dependable remodeling professionals, get in touch with ASASA
                                     Construction. We are your one-stop shop for all of your kitchen and bathroom renovation needs.
-                                    We are the kitchen renovation experts in Toronto you’re looking for.</p>
+                                    We are the kitchen renovation experts in Toronto you’re looking for. Device manager.</p>
 
                             </div>
                         </div>
@@ -286,9 +286,49 @@
                                         outdoor cooking space. We take care of every step of the process, from design to installation, to
                                         assist you in building your ideal outdoor kitchen. We can fulfill all of your out-of-doors needs and
                                         demands with our custom cabinetry. When it comes to outdoor kitchen areas, ASASA
-                                        Constructions leads the industry.
-                                        A kitchen, dining area, and entertainment area combined with an upgraded outdoor living area
-                                        turns your backyard into a comfortable and functional addition to your house.</p>
+                                        Constructions leads the industry.</p>
+
+                                </div>
+                            </div>
+                            {{-- %%%%%%%%%%%%%%%%%%TAK YOUR OUTDOOR &&&&&&&&&&&&&&&&&&&&&& --}}
+                            <section class="ftco-section" id="about-sectiont" id="about-section" style="padding:20px 0 0 0 ;">
+                                <div class="container">
+                                    <div class="row">
+
+                                        <div class="col-md-12 ">
+                                            <div class="row justify-content-center ">
+                                                <div class="col-md-12 heading-section ">
+
+                                                    <h3 class="" style="text-align:center">ASASA Kitchen Cabinets                                                    </h3>
+                                                    <span class="subheading " style="display: inline-flex;">
+                                                        <hr style="width:50px; border:1px solid;margin: 5px;"><span
+                                                            class="icon novi-icon fab fa-youtube"></span>
+                                                        <hr style="width:50px; border:1px solid;margin: 5px;">
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </section>
+                            <div class="row content" style="background: white;">
+
+                                <div class="col-md-12" data-aos="fade-up">
+                                    <div class="section-title" data-aos="fade-up">
+
+
+                                    </div>
+
+                                    <p>You should never compromise on cabinets when investing in your kitchen as kitchen cabinets are
+                                        a vital aspect of your kitchen. ASASA Constructions is the best source for custom kitchen cabinets
+                                        in Oshawa, GTA, in terms of both selection and quality. Our kitchen cabinets are made on order,
+                                        specifically for your kitchen's layout and requirements. We provide the finest quality of custom
+                                        kitchen cabinets in Oshawa. We take great pride in giving life to your dream kitchen by
+                                        installing the highest quality custom kitchen cabinets built in GTA, allowing all culinary specialists
+                                        and chefs to design and construct the kitchen of their dreams. We provide thermofoil, solid wood,
+                                        and painted MDF cabinets. You name it, we have it! More info on thermofoil, solid wood, and
+                                        painted MDF cabinets is stated below. </p>
 
                                 </div>
                             </div>
@@ -346,19 +386,20 @@
                                     MDF kitchen cabinets are most frequently utilized. The majority of kitchen cabinets are made of
                                     both MDF and solid wood. </p>
 
-                                    <strong>MDF is an excellent choice in moist areas</strong>
+                                    <strong>Advantages of MDF Painted Kitchen Cabinet</strong>
 
                                 <li>Repairing the MDF kitchen cabinet is simple and easy.
                                 </li><li>
-                                    MDF is an excellent choice in moist areas since it does not expand in moist environments
-                                </li><li>  Painted cabinets are more durable.
+                                    MDF is an excellent choice in moist areas.
+                                </li><li> Painted cabinets are more durable.
                                 </li>
 
                                 <strong>Disadvantages of MDF Painted Kitchen Cabinet</strong>
 
                                 <li> However, painted kitchen cabinets don't usually last as long as other options.
-                            </li><li>  As a luxury option, painted cabinets will always cost more.
-                            </li><li>  Painted kitchen cabinets have much longer lead times.</li>
+                            </li><li> As a luxury option, painted cabinets will always cost more.
+                            </li><li> Painted kitchen cabinets have much longer lead times.
+                            </li>
                             </div>
                         </div>
 
@@ -396,15 +437,15 @@
                                     faces is thermofoil.
                                 </p>
 
-                                <strong>Thermofoil kitchen cabinets express your sense of style and beauty</strong>
+                                <strong>Advantages of Thermofoil Kitchen Cabinets</strong>
                                 <li>The allure of thermofoil cabinets is their ability to express your sense of style and beauty
                                     in your kitchen.
-                                </li><li>The availability of Thermofoil cabinets is one of their main advantages
+                                </li><li>The availability of Thermofoil cabinets is one of their main advantages.
                                 </li><li> Thermofoil cabinets are not only readily available but also incredibly reasonably priced.
                                 </li>
-                                <strong>Painted kitchen cabinets don't usually last longer</strong>
+                                <strong>Disadvantages of Thermofoil Kitchen Cabinets</strong>
                                 <li>The thermofoil can flake or scorch easily when exposed to a wide temperature range.
-                                </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks
+                                </li><li> The short lifespan of thermofoil cabinets is one of their most notable drawbacks.
                                 </li><li> As thermofoil is exposed to heat and sunshine, it gradually takes on a dull yellow hue.
                                 </li>
 
@@ -441,18 +482,18 @@
                                 <strong>Advantages of Solid Wood Kitchen Cabinets</strong>
 
                                 <li>Solid wood cabinetry is renowned for its exceptional stability and longevity.
-                                </li><li> Solid wood kitchen cabinets are particularly easy to clean and maintain.
+                                </li><li> Solid kitchen cabinet are particularly easy to clean.
 
-                                </li><li> Solid wood kitchen cabinets have a high resale value that is maintained properly
+                                </li><li> Solid wood kitchen cabinets have a high resale value that is maintained properly.
                                 </li>
 
                                 <strong>Disadvantages of Solid Wood Kitchen Cabinets</strong>
 
-                                <li>The cost of solid wood kitchen cabinets is higher than other varieties of cabinet-making
-                                    materials
+                                <li>The cost of solid wood kitchen cabinets is slightly higher than that of many other
+                                    varieties of cabinet-making materials.
                                 </li><li> Proper maintenance is the only way to guarantee that wooden kitchen cabinets endure
                                     over time.
-                                </li><li>Solid wood cabinets are particularly vulnerable to termite infestation.
+                                </li><li>Solid wood cabinets are vulnerable to termite infestation.
                                 </li>
                             </div>
                         </div>
