@@ -502,7 +502,7 @@
                                 </p>
                                 <strong>Advantages of Solid Wood Kitchen Cabinets</strong>
 
-                                <li>Solid wood cabinetry is renowned for its exceptional longevity.
+                                <li>Solid wood cabinetry is renowned for its longevity.
                                 </li><li>Solid kitchen cabinet are particularly easy to clean.
 
                                 </li><li> Solid wood kitchen cabinets have a high resale value.
@@ -510,8 +510,8 @@
 
                                 <strong>Disadvantages of Solid Wood Kitchen Cabinets</strong>
 
-                                <li>The cost of solid wood kitchen cabinets is slightly higher than others.
-                                </li><li> Proper maintenance is mandatory for wooden kitchen cabinets.
+                                <li>The cost of solid wood kitchen cabinets is slightly higher.
+                                </li><li> Proper maintenance is mandatory for wooden cabinets.
                                 </li><li>Solid wood cabinets are vulnerable to termite infestation.
                                 </li>
                             </div>
