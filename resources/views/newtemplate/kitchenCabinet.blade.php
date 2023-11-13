@@ -298,7 +298,7 @@
                                     <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/outdoor-img.jpg') }}"
                                         class="img-fluid" alt="" style="width:100%;">
 
-                                    {{-- <button class="radius button openModal button-primary button-shadow "
+                                    <button class="radius button openModal button-primary button-shadow "
                                         href="javascript:;" style="position: absolute;
                                         top: 83%;
                                         left: 63%;
@@ -310,7 +310,7 @@
                                         border: none;
                                         cursor: pointer;
 
-                                        text-align: center;">Free Estimation</button> --}}
+                                        text-align: center;">Free Estimation</button>
                                 </div>
                             </div>
                             {{-- %%%%%%%%%%%%%%%%%%TAK YOUR OUTDOOR &&&&&&&&&&&&&&&&&&&&&& --}}
