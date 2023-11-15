@@ -38,7 +38,7 @@
                 <div class="box-custom-1-main mobheight">
 
                     <img class="anim"
-                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.jpg') }}">
+                        src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/slider/1.webp') }}">
 
 
 
@@ -295,7 +295,7 @@
 
                                 </div>
                                 <div class="col-md-7" data-aos="fade-right">
-                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/outdoor-img.jpg') }}"
+                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/outdoor-img.webp') }}"
                                         class="img-fluid" alt="" style="width:100%;">
 
                                     <button class="radius button openModal button-primary button-shadow "
@@ -383,7 +383,7 @@
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
 
-                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/3.jpg') }} "
+                                    <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/3.webp') }} "
                                     class="img-fluid" alt="" style="height:400px;width:100%;">
                                     <button class="radius button openModal button-primary button-shadow "
                                     href="javascript:;" style="position: absolute;
@@ -427,7 +427,7 @@
 
                         <div class="row content" style="background: white;">
                             <div class="col-md-7" data-aos="fade-right">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/2.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/2.webp') }}"
                                     class="img-fluid" alt="" style="width:100%;">
 
                                 <button class="radius button openModal button-primary button-shadow "
@@ -475,7 +475,7 @@
                         </div>
                         <div class="row content" style="background: white;">
                             <div class="col-md-7 order-1 order-md-2" data-aos="fade-left">
-                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/1.jpg') }}"
+                                <img src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/landing/1.webp') }}"
                                     class="img-fluid" style="width:100%;">
 
                                 <button class="radius button openModal button-primary button-shadow "
