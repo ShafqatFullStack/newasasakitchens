@@ -685,10 +685,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/1.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/1.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/1.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/1.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -701,10 +701,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/3.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/3.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/3.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/3.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -714,10 +714,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/8.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -727,10 +727,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/4.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/4.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/4.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/4.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -740,10 +740,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/2.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -753,10 +753,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/5.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/5.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/5.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/5.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -766,10 +766,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/6.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/6.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/6.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/6.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -779,10 +779,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.JPG') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.JPG') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/7.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -793,10 +793,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.JPG') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.JPG') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/9.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -806,10 +806,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.JPG') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.JPG') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/10.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -819,10 +819,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/11.png') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/11.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/11.png') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/11.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -832,10 +832,10 @@
                             <div class="col-lg-4 col-sm-6 shuffle-item" data-groups="[&quot;residential&quot;,&quot;infrastructure&quot;,&quot;education&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/12.jpeg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/12.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid myImg"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/12.jpeg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/residential/12.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -848,10 +848,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/3.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -862,10 +862,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.1.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.1.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.1.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.1.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -876,10 +876,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/2.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/2.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/2.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/2.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -891,10 +891,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.4.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.4.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.4.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.4.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -905,10 +905,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/4.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -919,10 +919,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/5.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/5.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/5.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/5.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -933,10 +933,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/6.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/6.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/6.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/6.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -947,10 +947,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/7.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/7.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/7.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/7.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -961,10 +961,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/8.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/8.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/8.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/8.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -975,10 +975,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/9.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/9.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/9.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/9.webp') }}"
                                             alt="project-img">
 
                                     </a>
@@ -989,10 +989,10 @@
                                 data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
                                 <div class="project-img-container">
                                     <a class="gallery-popup"
-                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.jpg') }}"
+                                        href="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.webp') }}"
                                         aria-label="project-img">
                                         <img class="img-fluid"
-                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.jpg') }}"
+                                            src="{{ asset('newtemplate/asasa-kitchen/product/Storage/sub/cabinate/commercial/1.webp') }}"
                                             alt="project-img">
 
                                     </a>
